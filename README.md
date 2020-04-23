@@ -45,10 +45,11 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
 
 1.	The GITHUB repository will contain:
 
-        •	A ‘LICENCE’ file containing a copy of the MIT Licence
-        •	A ‘README.md’ file (see below)
-        •	A text file called ‘irisdataset.txt’ containing a download the data set
-        •	A python program file called analysis.py which:
+        • A png file called _*iris variants.png*_ which contains images of the variants of iris identified in the study i.e. Iris setosa, Iris virginica and Iris versicolor.
+        •	A text file called _*‘irisdataset.txt’*_ containing a download the data set.
+        •	A _*‘LICENSE’*_ file containing a copy of the MIT Licence
+        •	A -*‘README.md’*_ file (see below)
+        •	A python program file called *_analysis.py*_ which:
 
                   a.	Outputs a summary of each variable to a single text ﬁle
                   b.	Saves a histogram of each variable to png. ﬁles
