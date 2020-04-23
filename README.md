@@ -1,13 +1,13 @@
 **Programming & Scripting Final Project Submission**
-Higher Diploma in Data Analytics & Computer Science
-Submitted by Fiona Lee 
+**Higher Diploma in Data Analytics & Computer Science**
+**Submitted by Fiona Lee**
 
-Introduction
+**Introduction**
 
 The Iris flower data set or Fisher’s Iris data was introduced by the British statistician and biologist Ronald Fisher 1936 as an example of linear discriminant analysis.  The data set is a multivariate data set which involves the observation and analysis of more than one statistical outcome variable at a time (Field, Miles and Field 2013).  It is sometimes called Anderson’s Iris data set because Edgar Anderson collected the data to quantify the morphologic variation of Iris flowers of three related species. 
 The data set consists of fifty samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor) 
 
-source:https://en.wikipedia.org/wiki/Iris_flower_data_set
+*source:https://en.wikipedia.org/wiki/Iris_flower_data_set*
 
 For each sample, four features were measured i.e. 
 
@@ -18,15 +18,15 @@ For each sample, four features were measured i.e.
 
 A flower is classified as either among those based on the four features given. Fisher developed a linear discriminant model to distinguish the species from each other based on the combination of these four features.
 
-![alt text](https://github.com/[Fiona-600]/[Project-2020]/blob/[branch]/iris variants.png?raw=true)
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Iris%20variants.png?raw=true)
+
+https://github.com/Fiona-600/Project-2020/blob/master/Iris%20variants.png
 
 
-
-
-Fig 1 – 3 Species of Iris
+*Fig 1 – 3 Species of Iris*
  
 
-Purpose of the project
+**Purpose of the project**
 
 To research the iris flower data set and write documentation and code using python to investigate it. 
 
@@ -38,7 +38,7 @@ The investigation will include:
   4.	The resulting output of the code
 
 
-Structure
+**Structure**
 
 The project will be stored in a GITHUB Repository at url: https://github.com/Fiona-600/Project-2020.git
 
@@ -63,13 +63,13 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
         •	All references used in completing the project
 
 
-Investigation Approach using Python
+**Investigation Approach using Python**
 
 This project has been approached with the intention of researching the Iris Flower Data Set, 
 write and run scripts to test the set within python on order to summarise and support conclusions 
 
 
-Technology Used
+**Technology Used**
 
 	•	Anaconda
 	•	Visual Studio Code
@@ -78,7 +78,7 @@ Technology Used
 	•	GitHub
 	
   
-Libraries imported into Visual Studio Code
+**Libraries imported into Visual Studio Code**
 
 	•	NumPy
 	•	Matplotlib
