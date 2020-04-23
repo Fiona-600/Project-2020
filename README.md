@@ -11,14 +11,14 @@ source:https://en.wikipedia.org/wiki/Iris_flower_data_set
 
 For each sample, four features were measured i.e. 
 
-    -	Sepal length in centimetres
-    -	Sepal width in centimetres
-    -	Petal length in centimetres
-    -	Petal width in centimetres 
+  -	Sepal length in centimetres
+  -	Sepal width in centimetres
+  -	Petal length in centimetres
+  -	Petal width in centimetres 
 
 A flower is classified as either among those based on the four features given. Fisher developed a linear discriminant model to distinguish the species from each other based on the combination of these four features.
 
-
+![alt text](https://github.com/[Fiona-600]/[Project-2020]/blob/[branch]/iris variants.png?raw=true)
 
 
 
@@ -32,10 +32,10 @@ To research the iris flower data set and write documentation and code using pyth
 
 The investigation will include:
 
-    1.	An explanation of what investigating a data set entails
-    2.	How python can be used to investigate the data set
-    3.	The required code for the analysis using python
-    4.	The resulting output of the code
+  1.	An explanation of what investigating a data set entails
+  2.	How python can be used to investigate the data set
+  3.	The required code for the analysis using python
+  4.	The resulting output of the code
 
 
 Structure
