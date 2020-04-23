@@ -1,5 +1,7 @@
-**Programming & Scripting Final Project Submission**/
-**Higher Diploma in Data Analytics & Computer Science**/
+**Programming & Scripting Final Project Submission**
+
+**Higher Diploma in Data Analytics & Computer Science**
+
 **Submitted by Fiona Lee**
 
 **Introduction**
