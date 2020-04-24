@@ -24,12 +24,13 @@ A flower is classified as either among those based on the four features given. F
 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Iris%20variants.png?raw=true)
 
-https://github.com/Fiona-600/Project-2020/blob/master/Iris%20variants.png
+Repository Link: https://github.com/Fiona-600/Project-2020/blob/master/Iris%20variants.png
 
+*Fig 2 - Indication of Petals and Sepals
 
 ![alt text](https://raw.githubusercontent.com/Fiona-600/Project-2020/master/Iris%20petal%20and%20sepal.png?raw=true)
 
-https://raw.githubusercontent.com/Fiona-600/Project-2020/master/Iris%20petal%20and%20sepal.png
+Repository link: https://raw.githubusercontent.com/Fiona-600/Project-2020/master/Iris%20petal%20and%20sepal.png
 
 
 **Purpose of the project**
