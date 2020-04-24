@@ -27,6 +27,11 @@ A flower is classified as either among those based on the four features given. F
 https://github.com/Fiona-600/Project-2020/blob/master/Iris%20variants.png
 
 
+![alt text](https://raw.githubusercontent.com/Fiona-600/Project-2020/master/Iris%20petal%20and%20sepal.png?raw=true)
+
+https://raw.githubusercontent.com/Fiona-600/Project-2020/master/Iris%20petal%20and%20sepal.png
+
+
 **Purpose of the project**
 
 To research the iris flower data set and write documentation and code using python to investigate it. 
