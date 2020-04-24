@@ -39,31 +39,32 @@ The investigation will include:
   4.	The resulting output of the code
 
 
-**Structure**
+**Structure & Project Navigation**
 
 The project will be stored in a GITHUB Repository at url: https://github.com/Fiona-600/Project-2020.git
 
 1.	The GITHUB repository will contain:
 
-        •	A png file called 'iris variants.png' which contains images of the variants of iris identified in the study i.e. Iris setosa, Iris virginica and Iris versicolor.
-        •	A text file called ‘irisdataset.txt’ containing a download the data set.
+        •	A png file called ‘iris variants.png’ which contains images of the variants of iris identified in the study i.e. Iris setosa, Iris virginica and Iris versicolor.
+
+        •	A text file called ‘irisdataset.txt’ containing a download the data set
+
         •	A ‘LICENSE’ file containing a copy of the MIT Licence
-        •	A ‘README.md’ file (see below)
 
-        •	A python program file called 'analysis.py' which:
+        •	A ‘README.md’ file which contains:
 
-                  a.	Outputs a summary of each variable to a single text ﬁle
-                  b.	Saves a histogram of each variable to png. ﬁles
-                  c.	Outputs a scatter plot of each pair of variables
+                •	The data set itself
+                •	Online and other research into the data set
+                •	Investigations into the data set
+                •	How to run the python code
+                •	What that code does.
+                •	All references used in completing the project
 
-2.	The 'README.md' file will include a summary of:
+        •	A python program file called ‘analysis.py’ which will:
 
-        •	The data set itself
-        •	Online and other research into the data set
-        •	Any investigations into it
-        •	How to run the python code
-        •	What that code does.
-        •	All references used in completing the project
+                  a.	Output a summary of each variable to a single text ﬁle
+                  b.	Save a histogram of each variable to png. ﬁles
+                  c.	Output a scatter plot of each pair of variables
 
 
 **Investigation Approach using Python**
@@ -83,6 +84,15 @@ write and run scripts to test the set within python on order to summarise and su
   
 **Libraries imported into Visual Studio Code**
 
-	•	NumPy
-	•	Matplotlib
-	•	Pandas
+•	NumPy - The fundamental package for scientific computing with Python
+    ‘import numpy as np’
+
+•	Pandas – An open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools
+    ‘import pandas as pd’
+    
+•	Matplotlib
+    ‘import matplotlib as matplotlib’
+
+•	Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
+    ‘import seaborn as sns’
+
