@@ -1,5 +1,6 @@
 
 import pandas as pd
+import numpy as np
 
 dataset = pd.read_csv("irisdataset.csv") 
 #Read all characters in the file 'irisdataset.csv'
@@ -21,9 +22,8 @@ iris_versicolor = dataset.loc [dataset ["class"]=="Iris-versicolor"]
 #df = pd.read_csv("irisdataset.csv", names=header_list)
 #https://kite.com/python/answers/how-to-set-column-names-when-importing-a-csv-into-a-pandas-dataframe-in-python
 
-#print first 5 lines
-#print (dataset.head())
-import numpy as np
+
+
 # Create a Data Frame
 Data_Frame = pd.DataFrame(dataset,columns=header_list)
 #print (Data_Frame.describe(include=[np.number]))
@@ -34,17 +34,24 @@ Data_Frame.hist(column ='Class')
 #print(Data_Frame.columns)
 #https://medium.com/@gangulym23/practical-pandas-50586fe90cf8
 
-#Working Outputs
+#Working Outputs:
+#print (dataset.head())
+#print (dataset.head())
 #print("columns",dataset.columns)
 #print("shape:",dataset.shape)
+#print(dataset["class"].value_counts())
 #print (dataset)
+#print(dataset.describe())
+#print("Size:",dataset.size)
+
+#source: https://medium.com/@avulurivenkatasaireddy/exploratory-data-analysis-of-iris-data-set-using-python-823e54110d2d
 
 #Print (Data_Frame) produces NaN returns
-print (Data_Frame)
+#print (Data_Frame)
+print(Data_Frame.head())
 
-#Data_Frame[‘target’] = dataset[‘class’]
-#print(“Checking top records: “)
-#print(Data_Frame.head())
+#Data_Frame[‘target’] = dataset[‘Class’]
+
 #print(‘\n’)
 
 
