@@ -8,78 +8,118 @@ import seaborn as sns
 # Set Default Seaborn Style
 sns.set
 
+# open a new file called Iris_Dataset_Summary.txt to the redirect output of analysis.py
+import sys
+sys.stdout=open("Iris_Dataset_Summary.txt","w")
+#source: https://stackoverflow.com/questions/7152762/how-to-redirect-print-output-to-a-file-using-python
+
+# Use 3 decimal places in output display
+pd.set_option("display.precision", 2)
+#source: https://realpython.com/pandas-groupby/
+
 #define the column names
 header_list = ["Sepal Length", "Sepal Width", "Petal Length" , 'Petal Width' ,'Species' ]
 
 #Read all characters in the file 'irisdataset.csv'
-
-#irisdataset = pd.read_csv("irisdataset.csv", names = header_list)
-#alternative coded
 irisdataset = pd.read_csv("irisdataset.csv" , names = None)
+#alternative code
+#irisdataset = pd.read_csv("irisdataset.csv", names = header_list)
 
 #type(irisdataset.data)
-#Data_Frame = pd.DataFrame (irisdataset.data , columns = Class)
+#Data_Frame = pd.DataFrame (irisdataset , columns = header_list)
 #print (Data_Frame)
-
 
 #https://www.shanelynn.ie/python-pandas-read_csv-load-data-from-csv-files/
 
+print ("IRIS DATA SET SUMMARY".center (70))
+#source: https://www.geeksforgeeks.org/python-string-ljust-rjust-center/?ref=rp
 print ("")
 print ("First 10 Results")
 print ("")
-print (irisdataset.head(11))
+print ("")
+print (irisdataset.head(10))
+print ("")
 print ("")
 print ("Information about the Iris Data Set")
 print ("")
 print(irisdataset.describe())
 print ("")
+print ("")
+print ("Average(Mean) Length/Width of Petals & Sepals by Species")
+print ("")
+Mean = irisdataset.groupby(['class']).mean()
+print (Mean)
+print ("")
+print ("")
+print ("Standard Deviation of Length/Width of Petals & Sepals by Species")
+print ("")
+Std = irisdataset.groupby(['class']).std()
+print (Std)
+print ("")
+print ("")
 print ("List of columns and their data type")
 print ("")
 print (irisdataset.info())
 print ("")
-print ("Number of Samples of each variant")
+print ("")
+print ("Number of Samples of each Variant")
+print ("")
 print(irisdataset["class"].value_counts())
 print ("")
+print ("")
+print ("Number of Columns and Number of Rows")
+print ("")
 print (irisdataset.shape)
+print ("")
 
-#plt.figure(figsize = (10, 7)) 
+#divide the data set into three parts
+iris_setosa = irisdataset.loc [irisdataset ["class"]=="Iris-setosa"]
+iris_virginica = irisdataset.loc [irisdataset ["class"]=="Iris-virginica"]
+iris_versicolor = irisdataset.loc [irisdataset ["class"]=="Iris-versicolor"]
+#https://medium.com/@avulurivenkatasaireddy/exploratory-data-analysis-of-iris-data-set-using-python-823e54110d2d
+
+
+plt.figure(figsize = (10, 7)) 
 x = irisdataset ["sepal_length"] 
-plt.hist(x, bins = 30, color = "green")
-x = irisdataset[min ("class")] 
+plt.hist(x, bins = 20, color = "green")
 plt.title("Sepal Length Occurences in Iris Data Set") 
 plt.xlabel("Sepal Length in cm") 
 plt.ylabel("Frequency") 
 #plt.show()
 
-#plt.figure(figsize = (10, 7)) 
 x = irisdataset["petal_length"] 
-plt.hist(x, bins = 20, color = "green") 
+plt.hist(x, bins = 20, color = "blue") 
 plt.title("Petal Length Occurences in Iris Data Set") 
 plt.xlabel("Petal Length cm") 
 plt.ylabel("Frequency") 
 #plt.show()
 
-#divide the data set into three parts
-#iris_setosa = irisdataset.loc [irisdataset ["class"]=="Iris-setosa"]
-#iris_virginica = irisdataset.loc [irisdataset ["class"]=="Iris-virginica"]
-#iris_versicolor = irisdataset.loc [irisdataset ["class"]=="Iris-versicolor"]
-#https://medium.com/@avulurivenkatasaireddy/exploratory-data-analysis-of-iris-data-set-using-python-823e54110d2d
+x = irisdataset ["sepal_width"] 
+plt.hist(x, bins = 20, color = "red") 
+plt.title("Sepal Width Occurences in Iris Data Set") 
+plt.xlabel("Sepal Width cm") 
+plt.ylabel("Frequency") 
+#plt.show()
 
+x = irisdataset ["petal_width"] 
+plt.hist(x, bins = 30, color = "yellow") 
+plt.title("Petal Width Occurences in Iris Data Set") 
+plt.xlabel("Petal Width cm") 
+plt.ylabel("Frequency") 
+#plt.show()
 #https://stackoverflow.com/questions/55718675/make-histogram-from-csv-file-with-python
 
-#plt.figure(figsize = (10, 7)) 
-#x = data["SepalLengthCm"] 
-  
-#plt.hist(x, bins = 20, color = "green") 
-#plt.title("Sepal Length in cm") 
-#plt.xlabel("Sepal_Length_cm") 
-#plt.ylabel("Count") 
+#Multi-dimensional historgram of iris data set by feature and by flower type
+Petal_Length = sns.FacetGrid(irisdataset,hue="class",height=3).map(sns.distplot,"petal_length").add_legend().fig.suptitle('Petal Length Occurences by Species')
+Petal_Width = sns.FacetGrid(irisdataset,hue="class",height=3).map(sns.distplot,"petal_width").add_legend().fig.suptitle('Petal Width Occurences by Species') 
+Sepal_Length = sns.FacetGrid(irisdataset,hue="class",height=3).map(sns.distplot,"sepal_length").add_legend().fig.suptitle('Sepal Length Occurences by Species') 
+Sepal_Width = sns.FacetGrid(irisdataset,hue="class",height=3).map(sns.distplot,"sepal_width").add_legend().fig.suptitle('Sepal Width Occurences by Species')
+#plt.show()
+#https://medium.com/@avulurivenkatasaireddy/exploratory-data-analysis-of-iris-data-set-using-python-823e54110d2d
 
+#plt.figure(figsize = (10, 7)) 
 
 #Working Outputs:
-
-#print (irisdataset.head())
-
 #print("columns",irisdataset.columns)
 #print("shape:",irisdataset.shape)
 #print(irisdataset["class"].value_counts())
@@ -138,3 +178,7 @@ plt.ylabel("Frequency")
    #lines = reader (irisdataset)
    #irisdataset = list(lines)
    #return irisdataset
+
+#./analysis.py > Summary_Text_File.txt
+
+sys.stdout.close()

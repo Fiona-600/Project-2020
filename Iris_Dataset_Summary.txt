@@ -1,0 +1,75 @@
+                        IRIS DATA SET SUMMARY                         
+
+First 10 Results
+
+   sepal_length  sepal_width  petal_length  petal_width        class
+0           5.1          3.5           1.4          0.2  iris_setosa
+1           4.9          3.0           1.4          0.2  iris_setosa
+2           4.7          3.2           1.3          0.2  iris_setosa
+3           4.6          3.1           1.5          0.2  iris_setosa
+4           5.0          3.6           1.4          0.2  iris_setosa
+5           5.4          3.9           1.7          0.4  iris_setosa
+6           4.6          3.4           1.4          0.3  iris_setosa
+7           5.0          3.4           1.5          0.2  iris_setosa
+8           4.4          2.9           1.4          0.2  iris_setosa
+9           4.9          3.1           1.5          0.1  iris_setosa
+
+
+Information about the Iris Data Set
+
+       sepal_length  sepal_width  petal_length  petal_width
+count        150.00       150.00        150.00       150.00
+mean           5.84         3.05          3.76         1.20
+std            0.83         0.43          1.76         0.76
+min            4.30         2.00          1.00         0.10
+25%            5.10         2.80          1.60         0.30
+50%            5.80         3.00          4.35         1.30
+75%            6.40         3.30          5.10         1.80
+max            7.90         4.40          6.90         2.50
+
+
+Average(Mean) Length/Width of Petals & Sepals by Species
+
+                 sepal_length  sepal_width  petal_length  petal_width
+class                                                                
+iris_setosa              5.01         3.42          1.46         0.24
+iris_versicolor          5.94         2.77          4.26         1.33
+iris_virginica           6.59         2.97          5.55         2.03
+
+
+Standard Deviation of Length/Width of Petals & Sepals by Species
+
+                 sepal_length  sepal_width  petal_length  petal_width
+class                                                                
+iris_setosa              0.35         0.38          0.17         0.11
+iris_versicolor          0.52         0.31          0.47         0.20
+iris_virginica           0.64         0.32          0.55         0.27
+
+
+List of columns and their data type
+
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 150 entries, 0 to 149
+Data columns (total 5 columns):
+sepal_length    150 non-null float64
+sepal_width     150 non-null float64
+petal_length    150 non-null float64
+petal_width     150 non-null float64
+class           150 non-null object
+dtypes: float64(4), object(1)
+memory usage: 6.0+ KB
+None
+
+
+Number of Samples of each Variant
+
+iris_setosa        50
+iris_versicolor    50
+iris_virginica     50
+Name: class, dtype: int64
+
+
+Number of Columns and Number of Rows
+
+(150, 5)
+
