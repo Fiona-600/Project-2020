@@ -65,8 +65,8 @@ None
 Number of Samples of each Variant
 
 iris_virginica     50
-iris_setosa        50
 iris_versicolor    50
+iris_setosa        50
 Name: class, dtype: int64
 
 
@@ -74,3 +74,18 @@ Number of Columns and Number of Rows
 
 (150, 5)
 
+Appendices
+
+HISTOGRAMS
+
+Appendix 1  - Single Dimensional Historgram of Iris Data Set by Sepal Length
+Appendix 2  - Single Dimensional Historgram of Iris Data Set by Sepal Width
+Appendix 3  - Single Dimensional Historgram of Iris Data Set by Petal Length
+Appendix 4  - Single Dimensional Historgram of Iris Data Set by Petal Width
+Appendix 5  - Multi-Dimensional Historgram of iris data set showing frequency of Sepal Length by Flower type
+Appendix 6  - Multi-Dimensional Historgram of iris data set showing frequency of Sepal Width by Flower type
+Appendix 7  - Multi-Dimensional Historgram of iris data set showing frequency of Petal Length by Flower type
+Appendix 8  - Multi-Dimensional Historgram of iris data set showing frequency of Petal Width by Flower type
+Appendix 9 - Scatterplot without Regression Lines - Sample Code to compare 'Petal Width' vs 'Petal Length' by Species
+Appendix 10  - Scatterplot with Regression Lines - Sample Code to compare 'Petal Width' vs 'Petal Length' by Species - With Regression Lines
+Appendix 11 - Scatterplot Grid - Compare 'Sepal Width' vs 'Sepal Length' vs 'Petal Width' vs 'Petal Length' by Species - Without Regression Lines
