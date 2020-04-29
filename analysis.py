@@ -109,7 +109,7 @@ plt.show()
 #MULTI DIMENSIONAL HISTOGRAMS (By Feature & Species)
 # Source: https://medium.com/@avulurivenkatasaireddy/exploratory-data-analysis-of-iris-data-set-using-python-823e54110d2d
 print ("Appendix 5  - Multi-Dimensional Historgram of Iris Data Set showing the Frequency of Sepal Length by Variant")
-Sepal_Length = sns.FacetGrid(irisdataset,hue="class",height=6).map(sns.distplot,"sepal_length").add_legend().fig.suptitle('Appendix 5 - Sepal Length Occurences by Species') 
+Sepal_Length = sns.FacetGrid (irisdataset,hue="class",height = 6).map(sns.distplot,"sepal_length").add_legend().fig.suptitle('Appendix 5 - Sepal Length Occurences by Species') 
 sns.set_style ("whitegrid")
 sns.set_style ("ticks")
 a4_dims = (11.7, 8.27)
@@ -123,7 +123,7 @@ a4_dims = (11.7, 8.27)
 fig , Sepal_Width = sns.figsize = a4_dims
 plt.show()
 print ("Appendix 7  - Multi-Dimensional Historgram of Iris Data Set showing the Frequency of Petal Length by Variant")
-Petal_Length = sns.FacetGrid (irisdataset, hue = "class", height =6).map (sns.distplot,"petal_length").add_legend().fig.suptitle ('Appendix 7 - Petal Length Occurences by Species')
+Petal_Length = sns.FacetGrid (irisdataset, hue = "class", height = 6).map (sns.distplot,"petal_length").add_legend().fig.suptitle ('Appendix 7 - Petal Length Occurences by Species')
 sns.set_style ('whitegrid')
 sns.set_style ("ticks")
 a4_dims = (11.7, 8.27)
@@ -145,10 +145,10 @@ print ("SCATTERPLOTS")
 print ("Appendix 9  - Scatterplot without Regression Lines - Sample Code to compare 'Petal Width' vs 'Petal Length' by Species")
 sns.set (style = "whitegrid", palette ='Set2')
 sns.set_style ("ticks")
-ax = sns.scatterplot(x="petal_width", y="petal_length", hue = "class" , data=irisdataset)
+ax = sns.scatterplot (x="petal_width", y ="petal_length", hue = "class" , data=irisdataset)
 ax.set_title ("Appendix 9 - Scatterplot Petal Width vs Petal Length")
 a4_dims = (11.7, 8.27)
-fig , ax = sns.figsize = a4_dims
+fig, ax = sns.figsize = a4_dims
 plt.show()
 # SCATTERPLOT BY SPECIES - WITH REGRESSION LINES
 # Source: https://stackoverflow.com/questions/46307941/how-can-i-add-title-on-seaborn-lmplot
@@ -158,7 +158,7 @@ sns.set_style ("ticks")
 ax = sns.lmplot (x ="petal_width" , y = "petal_length" , palette = 'Set2', hue = "class", data = irisdataset, height = 6)
 ax.fig.suptitle ("Appendix 10 - Scatterplot Petal Width vs Petal Length", fontsize = 12)
 a4_dims = (11.7, 8.27)
-fig , ax = sns.figsize = a4_dims
+fig, ax = sns.figsize = a4_dims
 plt.show()
 # This code can be changed to compare other variables by replacing 'petal_width' and 'petal_length in lines 146/147 and 157/158
 # with alternate variables i.e sepal_length and sepal_width
@@ -179,7 +179,7 @@ plt.subplots_adjust(top=0.9)
 ax.fig.suptitle ("Appendix 11 - Scatterplot Grid - Compare All Variables i.e. Petal Width, Petal Length, Sepal Width, Sepal Length by Species", fontsize = 11)
 # Scale to print on A4 sheet
 a4_dims = (11.7, 8.27)
-fig , ax = sns.figsize = a4_dims
+fig, ax = sns.figsize = a4_dims
 plt.show()
 
 #Close output text file
