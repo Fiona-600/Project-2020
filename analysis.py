@@ -61,13 +61,12 @@ print ("Number of Columns and Number of Rows")
 print ("")
 print (irisdataset.shape)
 print ("")
-print ("Appendices")
+print ("Appendices - List of Outputs")
 print ("")
 
 # HISTOGRAMS (By Feature Only)
 # https://stackoverflow.com/questions/55718675/make-histogram-from-csv-file-with-python
 print ("HISTOGRAMS")
-print ("")
 # Histogram to plot 'Sepal Length' measurement in cms frequency in green  - All Varieties")
 print ("Appendix 1  - Single Dimensional Historgram of Iris Data Set by Sepal Length")
 plt.figure(figsize = (10, 7)) 
@@ -109,28 +108,28 @@ plt.show()
 
 #MULTI DIMENSIONAL HISTOGRAMS (By Feature & Species)
 # Source: https://medium.com/@avulurivenkatasaireddy/exploratory-data-analysis-of-iris-data-set-using-python-823e54110d2d
-print ("Appendix 5  - Multi-Dimensional Historgram of iris data set showing frequency of Sepal Length by Flower type")
+print ("Appendix 5  - Multi-Dimensional Historgram of Iris Data Set showing the Frequency of Sepal Length by Variant")
 Sepal_Length = sns.FacetGrid(irisdataset,hue="class",height=6).map(sns.distplot,"sepal_length").add_legend().fig.suptitle('Appendix 5 - Sepal Length Occurences by Species') 
 sns.set_style ("whitegrid")
 sns.set_style ("ticks")
 a4_dims = (11.7, 8.27)
 fig , Sepal_Length = sns.figsize = a4_dims
 plt.show()
-print ("Appendix 6  - Multi-Dimensional Historgram of iris data set showing frequency of Sepal Width by Flower type")
+print ("Appendix 6  - Multi-Dimensional Historgram of Iris Data Set showing the Frequency of Sepal Width by Variant")
 Sepal_Width = sns.FacetGrid (irisdataset, hue = "class", height = 6).map (sns.distplot,"sepal_width").add_legend().fig.suptitle ('Appendix 6 - Sepal Width Occurences by Species')
 sns.set_style ("whitegrid")
 sns.set_style ("ticks")
 a4_dims = (11.7, 8.27)
 fig , Sepal_Width = sns.figsize = a4_dims
 plt.show()
-print ("Appendix 7  - Multi-Dimensional Historgram of iris data set showing frequency of Petal Length by Flower type")
+print ("Appendix 7  - Multi-Dimensional Historgram of Iris Data Set showing the Frequency of Petal Length by Variant")
 Petal_Length = sns.FacetGrid (irisdataset, hue = "class", height =6).map (sns.distplot,"petal_length").add_legend().fig.suptitle ('Appendix 7 - Petal Length Occurences by Species')
 sns.set_style ('whitegrid')
 sns.set_style ("ticks")
 a4_dims = (11.7, 8.27)
 fig , Petal_Length = sns.figsize = a4_dims
 plt.show()
-print ("Appendix 8  - Multi-Dimensional Historgram of iris data set showing frequency of Petal Width by Flower type")
+print ("Appendix 8  - Multi-Dimensional Historgram of Iris Data Set showing the Frequency of Petal Width by Variant")
 Petal_Width = sns.FacetGrid (irisdataset, hue = "class", height = 5).map (sns.distplot,"petal_width").add_legend().fig.suptitle ('Appendix 8 - Petal Width Occurences by Species') 
 sns.set_style ('whitegrid')
 sns.set_style ("ticks")
@@ -138,10 +137,12 @@ a4_dims = (11.7, 8.27)
 fig , Petal_Width = sns.figsize = a4_dims
 plt.show()
 
+print ("")
+print ("SCATTERPLOTS")
 # SCATTER PLOTS:
 # Source: Scatterplot Tutorial - https://seaborn.pydata.org/generated/seaborn.scatterplot.html
 # SCATTERPLOT BY SPECIES - WITHOUT REGRESSION LINES
-print ("Appendix 9 - Scatterplot without Regression Lines - Sample Code to compare 'Petal Width' vs 'Petal Length' by Species")
+print ("Appendix 9  - Scatterplot without Regression Lines - Sample Code to compare 'Petal Width' vs 'Petal Length' by Species")
 sns.set (style = "whitegrid", palette ='Set2')
 sns.set_style ("ticks")
 ax = sns.scatterplot(x="petal_width", y="petal_length", hue = "class" , data=irisdataset)
@@ -151,7 +152,7 @@ fig , ax = sns.figsize = a4_dims
 plt.show()
 # SCATTERPLOT BY SPECIES - WITH REGRESSION LINES
 # Source: https://stackoverflow.com/questions/46307941/how-can-i-add-title-on-seaborn-lmplot
-print ("Appendix 10  - Scatterplot with Regression Lines - Sample Code to compare 'Petal Width' vs 'Petal Length' by Species - With Regression Lines")
+print ("Appendix 10 - Scatterplot with Regression Lines - Sample Code to compare 'Petal Width' vs 'Petal Length' by Species - With Regression Lines")
 sns.set_style ("whitegrid")
 sns.set_style ("ticks")
 ax = sns.lmplot (x ="petal_width" , y = "petal_length" , palette = 'Set2', hue = "class", data = irisdataset, height = 6)
