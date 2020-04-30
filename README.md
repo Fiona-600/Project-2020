@@ -326,6 +326,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 Andrew Beatty and Ian McLoughlin for all the helpful tips in completing these assignments
 
 ** References**
+Marshall, M. (1988, July). Iris Data Set. Retrieved from: https://archive.ics.uci.edu/ml/datasets/iris.
 https://campus.datacamp.com/courses/statistical-thinking-in-python-part-1/graphical-exploratory-data-analysis?ex=5
 https://stackoverflow.com/questions/7152762/how-to-redirect-print-output-to-a-file-using-python
 https://realpython.com/pandas-groupby/
@@ -340,3 +341,4 @@ https://medium.com/@avulurivenkatasaireddy/exploratory-data-analysis-of-iris-dat
 https://stackoverflow.com/questions/52096050/seaborn-title-position
 https://stackoverflow.com/questions/36813396/how-to-show-the-title-for-the-diagram-of-seaborn-pairplot-or-pridgrid
 https://stackoverflow.com/questions/52096050/seaborn-title-position
+https://en.wikipedia.org/wiki/Iris_flower_data_set
