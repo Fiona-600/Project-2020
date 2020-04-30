@@ -139,9 +139,9 @@ Python program file ‘analysis.py’ will analyse the following aspects of the 
 
 
 **Fig ?. Histogram - Petal Length by Species**
-![alt text](![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%203%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set.png?raw=true)
+![alt text](![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%207%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png?raw=true)
 
-**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%203%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set.png
+**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%207%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png
 
 
 **Fig ?. Histogram - Petal Width**
