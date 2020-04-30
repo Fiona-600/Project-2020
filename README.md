@@ -325,7 +325,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 **Acknowledgments**
 Andrew Beatty and Ian McLoughlin for all the helpful tips in completing these assignments
 
-** References**
+**References**
 
 Marshall, M. (1988, July). Iris Data Set. Retrieved from: https://archive.ics.uci.edu/ml/datasets/iris
 https://en.wikipedia.org/wiki/Iris_flower_data_set
