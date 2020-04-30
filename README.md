@@ -119,7 +119,7 @@ Python program file ‘analysis.py’ will analyse the following aspects of the 
 
 **Fig ?. Histogram - Sepal Length by Species**
 
-![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%202%20-%20Sepal%20Length%20Occurances%20in%20the%20Iris%20Data%20Set%20by%20Species.png?raw=true))
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%202%20-%20Sepal%20Length%20Occurances%20in%20the%20Iris%20Data%20Set%20by%20Species.png?raw=true)
 
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%202%20-%20Sepal%20Length%20Occurances%20in%20the%20Iris%20Data%20Set%20by%20Species.png
 
@@ -145,7 +145,7 @@ Python program file ‘analysis.py’ will analyse the following aspects of the 
 
 **Fig ?. Histogram - Petal Length by Species**
 
-(![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%206%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png?raw=true)
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%206%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png?raw=true)
 
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%206%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png
 
