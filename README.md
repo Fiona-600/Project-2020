@@ -153,18 +153,15 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
 
 **Investigation Approach using Python**
 
-*Step 1*
-Python program file ‘analysis.py’ will analyse the following aspects of the data set 
+*Step 1 - Analyse the following aspects of the data set using Python program file ‘analysis.py’:*
 
-    1.  Summary of each variable outputted to a text file Iris_Dataset_Summary.txt
-    2.  Histograms of each variables - Appendices 1-8
-    3.  Scatter plot of each pair of variables - Appendices 9-11)
+    1.  Summarise each variable outputted to a text file Iris_Dataset_Summary.txt
+    2.  Present histograms of each variables - Appendices 1-8
+    3.  Present Scatter plots of each pair of variables - Appendices 9-11)
 
-*Step 2*
-Save all files to GitHub
+*Step 2 - Save all files to GitHub*
 
-*Step 3*
-Write a summary of all findings and conclusions in README.md
+*Step 3 - Write a summary of all findings and conclusions in README.md*
 
 
 **Findings and Conclusions**
