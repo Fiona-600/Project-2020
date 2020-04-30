@@ -20,7 +20,7 @@ There are 3 species of iris flower (Setosa, Virginica, Versicolour), with 50 exa
 
 **Preliminary Findings & Interpretation of the Data Set**
 
-*Qualities and attributes of the Iris dataset*
+**Qualities and attributes of the Iris dataset**
 
 The Iris dataset contains 150 examples (rows), and 5 variables (columns) named; sepal length, sepal width, petal length, petal width, and species    
 
@@ -54,7 +54,7 @@ The iris 'petal' and 'sepal' are indicated in fig. 3 below.
 
 *Repository link: https://raw.githubusercontent.com/Fiona-600/Project-2020/master/Iris%20petal%20and%20sepal.png*
 
-*Detailed Analysis - Initial Findings*
+**Detailed Analysis - Initial Findings**
 
 The detailed results of the initial analysis on ‘Iris Data Set’ are contained in the Iris_Dataset_Summary.txt file.
 
