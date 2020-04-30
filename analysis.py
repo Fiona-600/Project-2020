@@ -2,27 +2,27 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
-#https://campus.datacamp.com/courses/statistical-thinking-in-python-part-1/graphical-exploratory-data-analysis?ex=5
+# Ref Source: https://campus.datacamp.com/courses/statistical-thinking-in-python-part-1/graphical-exploratory-data-analysis?ex=5
 import seaborn as sns
 # Set Default Seaborn Style
 sns.set
 
 # Open a new file called Iris_Dataset_Summary.txt to the redirect output of analysis.py
-# Source: https://stackoverflow.com/questions/7152762/how-to-redirect-print-output-to-a-file-using-python
+# Ref Source: https://stackoverflow.com/questions/7152762/how-to-redirect-print-output-to-a-file-using-python
 import sys
 sys.stdout=open("Iris_Dataset_Summary.txt","w")
 
 # Use 3 decimal places in output display
-# Source: https://realpython.com/pandas-groupby/
+# Ref Source: https://realpython.com/pandas-groupby/
 pd.set_option("display.precision", 2)
 
 # Read all characters in the file 'irisdataset.csv'
-# Source: https://www.shanelynn.ie/python-pandas-read_csv-load-data-from-csv-files/
+# Ref Source: https://www.shanelynn.ie/python-pandas-read_csv-load-data-from-csv-files/
 irisdataset = pd.read_csv("irisdataset.csv" , names = None , index_col = 0)
 irisdataset = pd.read_csv('irisdataset.csv',header=0).iloc[:,0:5]
 
 print ("IRIS DATA SET SUMMARY".center (70))
-# Source: https://www.geeksforgeeks.org/python-string-ljust-rjust-center/?ref=rp
+# Ref Source: https://www.geeksforgeeks.org/python-string-ljust-rjust-center/?ref=rp
 print ("")
 print ("First 10 Results")
 print ("")
@@ -65,7 +65,7 @@ print ("APPENDICES - List of Outputs")
 print ("")
 
 # HISTOGRAMS (By Feature Only)
-# https://stackoverflow.com/questions/55718675/make-histogram-from-csv-file-with-python
+# Ref Source: https://stackoverflow.com/questions/55718675/make-histogram-from-csv-file-with-python
 print ("HISTOGRAMS")
 # Histogram to plot 'Sepal Length' measurement in cms frequency in green  - All Varieties")
 print ("Appendix 1  - Single Dimensional Historgram of Iris Data Set by Sepal Length")
@@ -107,7 +107,7 @@ plt.ylabel("Frequency")
 plt.show()
 
 #MULTI DIMENSIONAL HISTOGRAMS (By Feature & Species)
-# Source: https://medium.com/@avulurivenkatasaireddy/exploratory-data-analysis-of-iris-data-set-using-python-823e54110d2d
+# Ref Source: https://medium.com/@avulurivenkatasaireddy/exploratory-data-analysis-of-iris-data-set-using-python-823e54110d2d
 print ("Appendix 5  - Multi-Dimensional Historgram of Iris Data Set showing the Frequency of Sepal Length by Variant")
 Sepal_Length = sns.FacetGrid (irisdataset,hue="class",height = 6).map(sns.distplot,"sepal_length").add_legend().fig.suptitle('Appendix 5 - Sepal Length Occurences by Species') 
 sns.set_style ("whitegrid")
@@ -140,7 +140,7 @@ plt.show()
 print ("")
 print ("SCATTERPLOTS")
 # SCATTER PLOTS:
-# Source: Scatterplot Tutorial - https://seaborn.pydata.org/generated/seaborn.scatterplot.html
+# Ref Source: Scatterplot Tutorial - https://seaborn.pydata.org/generated/seaborn.scatterplot.html
 # SCATTERPLOT BY SPECIES - WITHOUT REGRESSION LINES
 print ("Appendix 9  - Scatterplot without Regression Lines - Sample Code to compare 'Petal Width' vs 'Petal Length' by Species")
 sns.set (style = "whitegrid", palette ='Set2')
@@ -151,7 +151,7 @@ a4_dims = (11.7, 8.27)
 fig, ax = sns.figsize = a4_dims
 plt.show()
 # SCATTERPLOT BY SPECIES - WITH REGRESSION LINES
-# Source: https://stackoverflow.com/questions/46307941/how-can-i-add-title-on-seaborn-lmplot
+# Ref Source: https://stackoverflow.com/questions/46307941/how-can-i-add-title-on-seaborn-lmplot
 print ("Appendix 10 - Scatterplot with Regression Lines - Sample Code to compare 'Petal Width' vs 'Petal Length' by Species - With Regression Lines")
 sns.set_style ("whitegrid")
 sns.set_style ("ticks")
@@ -160,22 +160,22 @@ ax.fig.suptitle ("Appendix 10 - Scatterplot Petal Width vs Petal Length", fontsi
 a4_dims = (11.7, 8.27)
 fig, ax = sns.figsize = a4_dims
 plt.show()
-# This code can be changed to compare other variables by replacing 'petal_width' and 'petal_length in lines 146/147 and 157/158
+# This code can be changed to compare other variables by replacing 'petal_width' and 'petal_length in lines 148/149 and 158/159
 # with alternate variables i.e sepal_length and sepal_width
 # A more efficient way to perform this comparison is to use the 'Scatterplot grid' method which compares all variables
 # in one plot (see below)
 
 # SCATTERPLOT GRID COMPARING ALL VARIABLES
-# Source: https://medium.com/@avulurivenkatasaireddy/exploratory-data-analysis-of-iris-data-set-using-python-823e54110d2d
+# Ref Source: https://medium.com/@avulurivenkatasaireddy/exploratory-data-analysis-of-iris-data-set-using-python-823e54110d2d
 print ("Appendix 11 - Scatterplot Grid - Compare 'Sepal Width' vs 'Sepal Length' vs 'Petal Width' vs 'Petal Length' by Species - Without Regression Lines")
 sns.set_style ("whitegrid")
 sns.set_style ("ticks")
 ax = sns.pairplot (irisdataset, hue="class", height=2);
-# Source: https://stackoverflow.com/questions/52096050/seaborn-title-position
+# Ref Source: https://stackoverflow.com/questions/52096050/seaborn-title-position
 plt.title('title', loc='left')
 plt.subplots_adjust(top=0.9)
-# Source: https://stackoverflow.com/questions/36813396/how-to-show-the-title-for-the-diagram-of-seaborn-pairplot-or-pridgrid
-# Source: y=1 refers to location of the heading - https://stackoverflow.com/questions/52096050/seaborn-title-position
+# Ref Source: https://stackoverflow.com/questions/36813396/how-to-show-the-title-for-the-diagram-of-seaborn-pairplot-or-pridgrid
+# Ref Source: y=1 refers to location of the heading - https://stackoverflow.com/questions/52096050/seaborn-title-position
 ax.fig.suptitle ("Appendix 11 - Scatterplot Grid - Compare All Variables i.e. Petal Width, Petal Length, Sepal Width, Sepal Length by Species", fontsize = 11)
 # Scale to print on A4 sheet
 a4_dims = (11.7, 8.27)

@@ -64,9 +64,9 @@ None
 
 Number of Samples of each Variant
 
-iris_virginica     50
 iris_versicolor    50
 iris_setosa        50
+iris_virginica     50
 Name: class, dtype: int64
 
 
