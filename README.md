@@ -60,6 +60,25 @@ The detailed results of the initial analysis on ‘Iris Data Set’ are containe
 
 *Repository Link: https://github.com/Fiona-600/Project-2020/blob/master/Iris_Dataset_Summary.txt*
 
+A summary of the initial analysis is detailed below:
+
+*Fig 4 - Sepal Length*
+
+![alt text](https://raw.githubusercontent.com/Fiona-600/Project-2020/master/Iris%20petal%20and%20sepal.png?raw=true)
+
+
+*Fig 5 - Sepal Width*
+
+![alt text](https://raw.githubusercontent.com/Fiona-600/Project-2020/master/Iris%20petal%20and%20sepal.png?raw=true)
+
+*Fig 6 - Petal Length*
+
+![alt text](https://raw.githubusercontent.com/Fiona-600/Project-2020/master/Iris%20petal%20and%20sepal.png?raw=true)
+
+Fig. 7 - Petal Width*
+
+![alt text](https://raw.githubusercontent.com/Fiona-600/Project-2020/master/Iris%20petal%20and%20sepal.png?raw=true)
+
 
 
 
