@@ -77,6 +77,7 @@ A summary of the initial analysis is detailed below:
 *Table 5 - Mean, Median, Standard Deviation, Min and Max Values by Species*
 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Fig%204%20Dataset%20Information%20by%20variable.PNG?raw=true)
+
 **Conclusions**
 
   *Sepal Length:*
@@ -105,13 +106,6 @@ A summary of the initial analysis is detailed below:
 
   Overall, ‘Iris Setosa is the most consistent across the sample measured and Iris Virginica’ was the least consistent.
 
-
-
-
-
-
-
-
 **Purpose of the project**
 
 To research the iris flower data set and to prepare a presentation to investigate the data set with a view to explaining it to your colleagues in a few weeks’ time.
@@ -130,9 +124,9 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
 
 1.	The GITHUB repository will contain:
 
-        •	png files called ‘iris variants.png’ and ‘iris petals and sepals.png’ which contains images of the variants of iris identified in the study i.e. Iris setosa, Iris    virginica and Iris versicolor and an indication of the location of the flower's petals and sepals.
+        •	Png files called ‘Fig 1 iris variants.png’ and ‘fig 3 iris petals and sepals.png’ which contains images of the variants of iris identified in the study i.e. Iris setosa, Iris    virginica and Iris versicolor and an indication of the location of the flower's petals and sepals.
 
-        •	A png file called ‘iris variants.png’ which contains images of the variants of iris identified in the study i.e. Iris setosa, Iris    virginica and Iris versicolor.        
+        •	Png files called Fig 2 Iris Data Set - First 10 Results.PNG and Fig 4 Dataset Information by variable.png which are samples from the Iris_Dataset_Summary.txt file       
 
         •	A text file called ‘irisdataset.txt’ containing a download the data set
      
@@ -151,9 +145,9 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
 
         •	A python program file called ‘analysis.py’ which will:
 
-                  1.  Output a summary of each variable to a single text ﬁle
-                  2.  Save a histogram of each variable to png. ﬁles
-                  3.  Output a scatter plot of each pair of variables
+                  1.  Output a summary of each variable to 'Iris_Dataset_Summary.txt
+                  2.  Save a histogram of each variable to png. ﬁles (Appendices 1-8)
+                  3.  Output a scatter plot of each pair of variables (Appendices 9-11)
 
 
 **Investigation Approach using Python**
