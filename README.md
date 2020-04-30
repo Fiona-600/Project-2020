@@ -165,76 +165,105 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
 *Step 3 - Write a summary of all findings and conclusions in README.md*
 
 
+
 **Findings and Conclusions**
 
-**Fig ?. Histogram - Sepal Length**
+Based the histograms below, we can conculde the following based on range spread of measurements and range of frequency of measurements: 
+
+*Sepal Length*
+
+  Iris Setosa has the highest concentration of samples in one 'bin' and has a shorter range of measurements.  
+  Iris Versiculor has a wider range of measurements but is reasonably consistent frequency across the 'bins'. 
+  Iris Virginica has the widest range spread and variety of measurement frequency
+
+
+**Fig 5. Histogram - Sepal Length**
 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%201%20-%20Sepal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set.png?raw=true)
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%201%20-%20Sepal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set.png
 
 
 
-**Fig ?. Histogram - Sepal Length by Species**
+**Fig 6. Histogram - Sepal Length by Species**
 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%202%20-%20Sepal%20Length%20Occurances%20in%20the%20Iris%20Data%20Set%20by%20Species.png?raw=true)
 
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%202%20-%20Sepal%20Length%20Occurances%20in%20the%20Iris%20Data%20Set%20by%20Species.png
 
 
-**Fig ?. Histogram - Sepal Width**
+*Sepal Width* 
+
+  All three varieties have a large range of measurements and a marked concentration in one 'bin'
+
+
+**Fig 7. Histogram - Sepal Width**
 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%203%20-%20Sepal%20Width%20%20Occurences%20in%20the%20Iris%20Data%20Set.png?raw=true)
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%203%20-%20Sepal%20Width%20%20Occurences%20in%20the%20Iris%20Data%20Set.png
 
 
-**Fig ?. Histogram - Sepal Width by Species**
+**Fig 8. Histogram - Sepal Width by Species**
 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%204%20-%20Sepal%20Width%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png?raw=true)
 
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%204%20-%20Sepal%20Width%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png
 
 
-**Fig ?. Histogram - Petal Length**
+*Petal Length*
+
+  Iris Setosa has the highest concentration of samples in one 'bin' and has a shorter range of measurements.  
+  Iris Versiculor has a wider range of measurements and is reasonably consistent frequency across the 'bins'. 
+  Iris Virginica has the widest range spread and is reasonably consistent frequency across the 'bins'.
+
+
+**Fig 9. Histogram - Petal Length**
 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%205%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set.png?raw=true)
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%205%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set.png
 
 
-**Fig ?. Histogram - Petal Length by Species**
+**Fig 10. Histogram - Petal Length by Species**
 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%206%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png?raw=true)
 
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%206%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png
 
 
-**Fig ?. Histogram - Petal Width**
+*Petal Width*
+
+  Iris Setosa has the highest concentration of samples in one 'bin' and has a shorter range of measurements.  
+  Iris Versiculor has a wider range of measurements and is reasonably consistent frequency across the 'bins'. 
+  Iris Virginica has the widest range spread and is reasonably consistent frequency across the 'bins'.
+
+
+**Fig 11. Histogram - Petal Width**
 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%207%20-%20Petal%20Width%20Occurences%20in%20the%20Iris%20Data%20Set.png?raw=true)
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%207%20-%20Petal%20Width%20Occurences%20in%20the%20Iris%20Data%20Set.png
 
 
-**Fig ?. Histogram - Petal Width by Species**
+**Fig 12. Histogram - Petal Width by Species**
 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%208%20-%20Petal%20Width%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png?raw=true)
 
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%207%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png
 
 
-**Fig ?. Scatter Plot - Petal Width vs Petal Length by Species**
+**Fig 13. Scatter Plot - Petal Width vs Petal Length by Species**
 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%209%20-%20Sample%20Scatterplot%20Petal%20Width%20vs%20Petal%20Length%20by%20Species%20-%20Without%20%20Regression%20Lines.png?raw=true)
 
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%209%20-%20Sample%20Scatterplot%20Petal%20Width%20vs%20Petal%20Length%20by%20Species%20-%20Without%20%20Regression%20Lines.png
 
 
-**Fig ?. Sample Scatter Plot with Regression Lines- Petal Width vs Petal Length by Species**
+**Fig 14. Sample Scatter Plot with Regression Lines- Petal Width vs Petal Length by Species**
 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%2010%20-%20Sample%20Scatterplot%20Petal%20Width%20vs%20Petal%20Length%20by%20Speciesv-%20with%20Regression%20Lines.png?raw=true)
 
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%2010%20-%20Sample%20Scatterplot%20Petal%20Width%20vs%20Petal%20Length%20by%20Speciesv-%20with%20Regression%20Lines.png
 
 
-**Fig ?. Scatter Plot Grid - Comparison of All Variables by Species**
+**Fig 15. Scatter Plot Grid - Comparison of All Variables by Species**
 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%2011%20-%20Scatter%20Plot%20Grid%20-%20Compare%20All%20Variables.png?raw=true)
 
