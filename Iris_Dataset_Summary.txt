@@ -1,5 +1,16 @@
                         IRIS DATA SET SUMMARY                         
 
+Number of Samples of each Variant
+
+iris_virginica     50
+iris_versicolor    50
+iris_setosa        50
+Name: class, dtype: int64
+
+Number of Columns and Number of Rows
+
+(150, 5)
+
 First 10 Results
 
 
@@ -16,7 +27,7 @@ First 10 Results
 9           4.9          3.1           1.5          0.1  iris_setosa
 
 
-Information about the Iris Data Set
+General Information about the Iris Data Set
 
        sepal_length  sepal_width  petal_length  petal_width
 count        150.00       150.00        150.00       150.00
@@ -29,7 +40,7 @@ min            4.30         2.00          1.00         0.10
 max            7.90         4.40          6.90         2.50
 
 
-Average(Mean) Length/Width of Petals & Sepals by Species
+Average (Mean) Length/Width of Petals & Sepals by Species
 
                  sepal_length  sepal_width  petal_length  petal_width
 class                                                                
@@ -62,17 +73,6 @@ memory usage: 6.0+ KB
 None
 
 
-Number of Samples of each Variant
-
-iris_versicolor    50
-iris_virginica     50
-iris_setosa        50
-Name: class, dtype: int64
-
-
-Number of Columns and Number of Rows
-
-(150, 5)
 
 APPENDICES - List of Outputs
 
