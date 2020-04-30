@@ -276,6 +276,7 @@ Based the histograms below, we can conculde the following based on range spread 
 
 
 
+
 **Fig 15. Scatter Plot Grid - Comparison of All Variables by Species**
 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%2011%20-%20Scatter%20Plot%20Grid%20-%20Compare%20All%20Variables.png?raw=true)
@@ -297,12 +298,12 @@ Based the histograms below, we can conculde the following based on range spread 
  	•	MS Office 
 	•	Firefox Internet Explorer
 
-*Procedure for downloading required programs
+*Procedure for downloading required programs*
 
-  •	Python version 3.7.4 was downloaded via Anaconda Navigator 3 to Windows 10 OS (https://www.anaconda.com/).
-  •	Microsoft Visual Studio Code was downloaded (https://code.visualstudio.com/).
-  •	Microsoft Visual Studio Code was configurated with GitHub (https://github.com/).
-  •	The Iris dataset was imported to Python as a CSV file 
+    •	Python version 3.7.4 was downloaded via Anaconda Navigator 3 to Windows 10 OS (https://www.anaconda.com/).
+    •	Microsoft Visual Studio Code was downloaded (https://code.visualstudio.com/).
+    •	Microsoft Visual Studio Code was configurated with GitHub (https://github.com/).
+    •	The Iris dataset was imported to Python as a CSV file 
 
 
 *Libraries and Modules*
@@ -315,10 +316,16 @@ Based the histograms below, we can conculde the following based on range spread 
 
 •	Seaborn - ‘import seaborn as sns’, 'sms.set'
 
+**Author & Contributors**
+Fiona Lee
+
+**License**
+This project is licensed under the MIT License - see the LICENSE.md file for details
+
+**Acknowledgments**
+Andrew Beatty and Ian McLoughlin for all the helpful tips in completing these assignments
+
+** References**
 
 
-Iris Data Set
 
-![alt text](![alt text](https://raw.githubusercontent.com/Fiona-600/Project-2020/master/Iris%20petal%20and%20sepal.png?raw=true)?raw=true)
-
-source: https://drive.google.com/file/d/1UJWvXXA5OygZa5cQg7N5xLfSxrXKg6An/view
