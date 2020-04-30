@@ -254,9 +254,9 @@ Based the histograms below, we can conclude the following based on range spread 
 
 
 
-**Fig 13. Scatter Plot - Petal Width vs Petal Length by Species**
 
-**Conclusions**
+
+**Scatter Plot Conclusions**
 
   •	Positive correlation between Petal Width and Petal Length
 
@@ -265,9 +265,27 @@ Based the histograms below, we can conclude the following based on range spread 
   •	Positive correlation between Petal Width and Sepal Length
 
 
+**Fig 13. Scatter Plot - Petal Width vs Petal Length by Species**
+
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%209%20-%20Sample%20Scatterplot%20Petal%20Width%20vs%20Petal%20Length%20by%20Species%20-%20Without%20%20Regression%20Lines.png?raw=true)
 
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%209%20-%20Sample%20Scatterplot%20Petal%20Width%20vs%20Petal%20Length%20by%20Species%20-%20Without%20%20Regression%20Lines.png
+
+
+
+**Fig 13a. Scatter Plot - Petal Length vs Sepal Length by Species**
+
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%209a%20-%20Scatterplot%20Petal%20Length%20%20vs%20Sepal%20Length%20by%20Species%20-%20Without%20%20Regression%20Lines.png?raw=true)
+
+**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%209a%20-%20Scatterplot%20Petal%20Length%20%20vs%20Sepal%20Length%20by%20Species%20-%20Without%20%20Regression%20Lines.png
+
+
+
+**Fig 13b. Scatter Plot - Petal Width vs Sepal Length by Species**
+
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%209b%20-%20Scatterplot%20Petal%20Width%20%20vs%20Sepal%20Length%20by%20Species%20-%20Without%20%20Regression%20Lines.png?raw=true)
+
+**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%209b%20-%20Scatterplot%20Petal%20Width%20%20vs%20Sepal%20Length%20by%20Species%20-%20Without%20%20Regression%20Lines.png
 
 
 
