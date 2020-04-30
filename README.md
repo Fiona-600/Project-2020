@@ -257,8 +257,11 @@ Based the histograms below, we can conclude the following based on range spread 
 **Fig 13. Scatter Plot - Petal Width vs Petal Length by Species**
 
 **Conclusions**
+
   •	a high positive correlation between PetalWidth and PetalLength
+
   •	a high positive correlation between PetalLength and SepalLength
+  
   •	a high positive correlation between PetalWidth and SepalLength
 
 
