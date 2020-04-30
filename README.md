@@ -36,23 +36,24 @@ Each row of the table represents one Iris flower, including its species and dime
 
 
 
-For each sample, four features were measured i.e. 
+For each sample, four features/variables were measured i.e. 
 
-  -	Sepal length in centimetres
-  -	Sepal width in centimetres
-  -	Petal length in centimetres
-  -	Petal width in centimetres 
+  -	Sepal length in centimetres - sepal_length
+  -	Sepal width in centimetres - sepal_width
+  -	Petal length in centimetres - petal_length
+  -	Petal width in centimetres petal_width
 
 A flower is classified as either among those based on the four features given. Fisher developed a linear discriminant model to distinguish the species from each other based on the combination of these four features.
 
 The iris 'petal' and 'sepal' are indicated in fig. 3 below.
 
 
-*Fig 3 - Iris Petals and Sepals
+*Fig 3 - Iris Petals and Sepals*
 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Fig%203%20%20Iris%20petal%20and%20sepal.png?raw=true)
 
 *Repository link: https://github.com/Fiona-600/Project-2020/blob/master/Fig%203%20%20Iris%20petal%20and%20sepal.png*
+
 
 **Detailed Analysis - Initial Findings**
 
@@ -152,25 +153,19 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
 
 **Investigation Approach using Python**
 
-An explanation of what investigating a data set entails
-
+*Step 1*
 Python program file ‘analysis.py’ will analyse the following aspects of the data set 
 
-    1.  Summarises each variable to a single text ﬁle
-    2.  Presents a histogram of each variable to png. ﬁles
-    3.  Outputs a scatter plot of each pair of variables
+    1.  Summary of each variable outputted to a text file Iris_Dataset_Summary.txt
+    2.  Histograms of each variables - Appendices 1-8
+    3.  Scatter plot of each pair of variables - Appendices 9-11)
 
-*Insight into raw data*
+*Step 2*
+Save all files to GitHub
 
-*The data analysis*
+*Step 3*
+Write a summary of all findings and conclusions in README.md
 
-*Variables*
-
-    •	sepal_length: Sepal length, in centimeters, used as input.
-    •	sepal_width:  Sepal width, in centimeters, used as input.
-    •	petal_length: Petal length, in centimeters, used as input.
-    •	petal_width:  Petal width, in centimeters, used as input.
-    •	class: Iris Setosa, Versicolor or Virginica, used as target
 
 **Findings and Conclusions**
 
