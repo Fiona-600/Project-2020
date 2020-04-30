@@ -336,3 +336,7 @@ https://stackoverflow.com/questions/55718675/make-histogram-from-csv-file-with-p
 https://medium.com/@avulurivenkatasaireddy/exploratory-data-analysis-of-iris-data-set-using-python-823e54110d2d
 https://seaborn.pydata.org/generated/seaborn.scatterplot.html
 https://stackoverflow.com/questions/46307941/how-can-i-add-title-on-seaborn-lmplot
+https://medium.com/@avulurivenkatasaireddy/exploratory-data-analysis-of-iris-data-set-using-python-823e54110d2d
+https://stackoverflow.com/questions/52096050/seaborn-title-position
+https://stackoverflow.com/questions/36813396/how-to-show-the-title-for-the-diagram-of-seaborn-pairplot-or-pridgrid
+https://stackoverflow.com/questions/52096050/seaborn-title-position
