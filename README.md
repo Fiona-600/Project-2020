@@ -13,9 +13,9 @@ There are 3 species of iris flower (Setosa, Virginica, Versicolour), with 50 exa
 
 *Fig 1 – 3 Species of Iris*
 
-![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Iris%20variants.png?raw=true)
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Fig%201%20Iris%20variants.png?raw=true)
 
-*Repository Link: https://github.com/Fiona-600/Project-2020/blob/master/Iris%20variants.png*
+*Repository Link: https://github.com/Fiona-600/Project-2020/blob/master/Fig%201%20Iris%20variants.png*
 
 
 **Preliminary Findings & Interpretation of the Data Set**
@@ -29,9 +29,9 @@ Each row of the table represents one Iris flower, including its species and dime
 
 *Fig. 2 - Iris Data Set Sample*
 
-![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Table%201%20%20Iris%20Data%20Set%20-%20First%2010%20Results.PNG?raw=true)
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Fig%202%20%20Iris%20Data%20Set%20-%20First%2010%20Results.PNG?raw=true)
 
-*Repository Link: https://github.com/Fiona-600/Project-2020/blob/master/Table%201%20%20Iris%20Data%20Set%20-%20First%2010%20Results.PNG*
+*Repository Link: https://github.com/Fiona-600/Project-2020/blob/master/Fig%202%20%20Iris%20Data%20Set%20-%20First%2010%20Results.PNG
 
 
 
@@ -50,9 +50,9 @@ The iris 'petal' and 'sepal' are indicated in fig. 3 below.
 
 *Fig 3 - Iris Petals and Sepals
 
-![alt text](https://raw.githubusercontent.com/Fiona-600/Project-2020/master/Iris%20petal%20and%20sepal.png?raw=true)
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Fig%203%20%20Iris%20petal%20and%20sepal.png?raw=true)
 
-*Repository link: https://raw.githubusercontent.com/Fiona-600/Project-2020/master/Iris%20petal%20and%20sepal.png*
+*Repository link: https://github.com/Fiona-600/Project-2020/blob/master/Fig%203%20%20Iris%20petal%20and%20sepal.png*
 
 **Detailed Analysis - Initial Findings**
 
@@ -64,7 +64,7 @@ A summary of the initial analysis is detailed below:
 
 *Fig 4 - Mean, Median, Standard Deviation, Min, Max Data*
 
-![alt text](https://raw.githubusercontent.com/Fiona-600/Project-2020/master/Iris%20petal%20and%20sepal.png?raw=true)
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Fig%204%20Dataset%20Information%20by%20variable.PNG?raw=true)
 
 
 
