@@ -117,40 +117,40 @@ Python program file ‘analysis.py’ will analyse the following aspects of the 
 
 **Fig ?. Histogram - Sepal Length by Species**
 
-![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%205%20-%20Sepal%20Length%20Occurances%20in%20the%20Iris%20Data%20Set%20by%20Species.png?raw=true)
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%202%20-%20Sepal%20Length%20Occurances%20in%20the%20Iris%20Data%20Set%20by%20Species.png)
 
-**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%205%20-%20Sepal%20Length%20Occurances%20in%20the%20Iris%20Data%20Set%20by%20Species.png
+**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%202%20-%20Sepal%20Length%20Occurances%20in%20the%20Iris%20Data%20Set%20by%20Species.png
 
 **Fig ?. Histogram - Sepal Width**
-![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%202%20-%20Sepal%20Width%20%20Occurences%20in%20the%20Iris%20Data%20Set.png?raw=true)
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%203%20-%20Sepal%20Width%20%20Occurences%20in%20the%20Iris%20Data%20Set.png?raw=true)
 
-**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%202%20-%20Sepal%20Width%20%20Occurences%20in%20the%20Iris%20Data%20Set.png
+**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%203%20-%20Sepal%20Width%20%20Occurences%20in%20the%20Iris%20Data%20Set.png
 
 
 **Fig ?. Histogram - Sepal Width by Species**
 
-![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%206%20-%20Sepal%20Width%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png?raw=true)
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%204%20-%20Sepal%20Width%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png?raw=true)
 
-**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%206%20-%20Sepal%20Width%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png
+**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%204%20-%20Sepal%20Width%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png
 
 
 **Fig ?. Histogram - Petal Length**
-![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%203%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set.png?raw=true)
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%205%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set.png?raw=true)
 
-**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%203%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set.png
+**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%205%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set.png
 
 
 **Fig ?. Histogram - Petal Length by Species**
 
-![alt text](![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%207%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png?raw=true)
+![alt text](![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%206%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png?raw=true)
 
-**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%207%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png
+**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%206%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png
 
 
 **Fig ?. Histogram - Petal Width**
-![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%204%20-%20Petal%20Width%20Occurences%20in%20the%20Iris%20Data%20Set.png?raw=true)
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%207%20-%20Petal%20Width%20Occurences%20in%20the%20Iris%20Data%20Set.png?raw=true)
 
-**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%204%20-%20Petal%20Width%20Occurences%20in%20the%20Iris%20Data%20Set.png
+**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%207%20-%20Petal%20Width%20Occurences%20in%20the%20Iris%20Data%20Set.png
 
 
 **Fig ?. Histogram - Petal Width by Species**
