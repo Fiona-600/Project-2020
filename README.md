@@ -296,6 +296,18 @@ Based the histograms below, we can conclude the following based on range spread 
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%2010%20-%20Sample%20Scatterplot%20Petal%20Width%20vs%20Petal%20Length%20by%20Speciesv-%20with%20Regression%20Lines.png
 
 
+**Fig 14a. Sample Scatter Plot with Regression Lines- Petal Width vs Petal Length by Species**
+
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%2010a%20-%20Scatterplot%20Petal%20Length%20vs%20Sepal%20%20Length%20by%20Species-%20with%20Regression%20Lines.png?raw=true)
+
+**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%2010a%20-%20Scatterplot%20Petal%20Length%20vs%20Sepal%20%20Length%20by%20Species-%20with%20Regression%20Lines.png
+
+**Fig 14b. Sample Scatter Plot with Regression Lines- Petal Width vs Petal Length by Species**
+
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%2010b%20-%20Scatterplot%20Sepall%20Length%20vs%20Petal%20Width%20by%20Species-%20with%20Regression%20Lines.png?raw=true)
+
+**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%2010b%20-%20Scatterplot%20Sepall%20Length%20vs%20Petal%20Width%20by%20Species-%20with%20Regression%20Lines.png
+
 
 
 **Fig 15. Scatter Plot Grid - Comparison of All Variables by Species**
