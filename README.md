@@ -316,14 +316,18 @@ Based the histograms below, we can conclude the following based on range spread 
 
 •	Seaborn - ‘import seaborn as sns’, 'sms.set'
 
+
 **Author & Contributors**
 Fiona Lee
+
 
 **License**
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
+
 **Acknowledgments**
 Andrew Beatty and Ian McLoughlin for all the helpful tips in completing these assignments
+
 
 **References**
 
