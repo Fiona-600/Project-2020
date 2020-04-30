@@ -110,9 +110,65 @@ Python program file ‘analysis.py’ will analyse the following aspects of the 
 
 **Findings and Conclusions**
 
+*Fig ?. Histogram - Sepal Length*
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%201%20-%20Sepal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set.png?raw=true)
 
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%201%20-%20Sepal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set.png
+
+*Fig ?. Histogram - Sepal Length by Species*
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%205%20-%20Sepal%20Length%20Occurances%20in%20the%20Iris%20Data%20Set%20by%20Species.png?raw=true)
+
+**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%205%20-%20Sepal%20Length%20Occurances%20in%20the%20Iris%20Data%20Set%20by%20Species.png
+
+*Fig ?. Histogram - Sepal Width*
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%202%20-%20Sepal%20Width%20%20Occurences%20in%20the%20Iris%20Data%20Set.png?raw=true)
+
+**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%202%20-%20Sepal%20Width%20%20Occurences%20in%20the%20Iris%20Data%20Set.png
+
+*Fig ?. Histogram - Sepal Width by Species*
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%206%20-%20Sepal%20Width%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png?raw=true)
+
+**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%206%20-%20Sepal%20Width%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png
+
+*Fig ?. Histogram - Petal Length*
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%203%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set.png?raw=true)
+
+**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%203%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set.png
+
+*Fig ?. Histogram - Petal Length by Species*
+![alt text](![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%203%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set.png?raw=true)
+
+**Repository Link**: ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%203%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set.png)
+
+*Fig ?. Histogram - Petal Width*
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%204%20-%20Petal%20Width%20Occurences%20in%20the%20Iris%20Data%20Set.png?raw=true)
+
+**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%204%20-%20Petal%20Width%20Occurences%20in%20the%20Iris%20Data%20Set.png
+
+*Fig ?. Histogram - Petal Width by Species*
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%208%20-%20Petal%20Width%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png?raw=true)
+
+**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%207%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png
+
+*Fig ?. Scatter Plot - Petal Width vs Petal Length by Species*
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%209%20-%20Sample%20Scatterplot%20Petal%20Width%20vs%20Petal%20Length%20by%20Species%20-%20Without%20%20Regression%20Lines.png?raw=true)
+
+**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%209%20-%20Sample%20Scatterplot%20Petal%20Width%20vs%20Petal%20Length%20by%20Species%20-%20Without%20%20Regression%20Lines.png
+
+*Fig ?. Sample Scatter Plot without Regression Lines- Petal Width vs Petal Length by Species*
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%209%20-%20Sample%20Scatterplot%20Petal%20Width%20vs%20Petal%20Length%20by%20Species%20-%20Without%20%20Regression%20Lines.png?raw=true)
+
+**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%209%20-%20Sample%20Scatterplot%20Petal%20Width%20vs%20Petal%20Length%20by%20Species%20-%20Without%20%20Regression%20Lines.png
+
+*Fig ?. Sample Scatter Plot with Regression Lines- Petal Width vs Petal Length by Species*
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%2010%20-%20Sample%20Scatterplot%20Petal%20Width%20vs%20Petal%20Length%20by%20Speciesv-%20with%20Regression%20Lines.png?raw=true)
+
+**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%2010%20-%20Sample%20Scatterplot%20Petal%20Width%20vs%20Petal%20Length%20by%20Speciesv-%20with%20Regression%20Lines.png
+
+*Fig ?. Scatter Plot Grid - Comparison of All Variables by Species*
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%2011%20-%20Scatter%20Plot%20Grid%20-%20Compare%20All%20Variables.png?raw=true)
+
+**Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%2011%20-%20Scatter%20Plot%20Grid%20-%20Compare%20All%20Variables.png
 
 
 
