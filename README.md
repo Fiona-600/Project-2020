@@ -326,6 +326,10 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 Andrew Beatty and Ian McLoughlin for all the helpful tips in completing these assignments
 
 ** References**
-
-
-
+https://campus.datacamp.com/courses/statistical-thinking-in-python-part-1/graphical-exploratory-data-analysis?ex=5
+https://stackoverflow.com/questions/7152762/how-to-redirect-print-output-to-a-file-using-python
+https://realpython.com/pandas-groupby/
+https://www.shanelynn.ie/python-pandas-read_csv-load-data-from-csv-files/
+https://www.geeksforgeeks.org/python-string-ljust-rjust-center/?ref=rp
+https://medium.com/analytics-vidhya/exploratory-data-analysis-uni-variate-analysis-of-iris-data-set-690c87a5cd40
+https://stackoverflow.com/questions/55718675/make-histogram-from-csv-file-with-python
