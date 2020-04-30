@@ -333,3 +333,6 @@ https://www.shanelynn.ie/python-pandas-read_csv-load-data-from-csv-files/
 https://www.geeksforgeeks.org/python-string-ljust-rjust-center/?ref=rp
 https://medium.com/analytics-vidhya/exploratory-data-analysis-uni-variate-analysis-of-iris-data-set-690c87a5cd40
 https://stackoverflow.com/questions/55718675/make-histogram-from-csv-file-with-python
+https://medium.com/@avulurivenkatasaireddy/exploratory-data-analysis-of-iris-data-set-using-python-823e54110d2d
+https://seaborn.pydata.org/generated/seaborn.scatterplot.html
+https://stackoverflow.com/questions/46307941/how-can-i-add-title-on-seaborn-lmplot
