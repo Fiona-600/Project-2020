@@ -169,7 +169,7 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
 
 **Findings and Conclusions**
 
-Based the histograms below, we can conculde the following based on range spread of measurements and range of frequency of measurements: 
+Based the histograms below, we can conclude the following based on range spread of measurements and range of frequency of measurements: 
 
 **Sepal Length**
 
