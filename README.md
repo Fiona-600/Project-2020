@@ -258,11 +258,11 @@ Based the histograms below, we can conclude the following based on range spread 
 
 **Conclusions**
 
-  •	a high positive correlation between PetalWidth and PetalLength
+  •	a high positive correlation between Petal Width and Petal Length
 
-  •	a high positive correlation between PetalLength and SepalLength
-  
-  •	a high positive correlation between PetalWidth and SepalLength
+  •	a high positive correlation between Petal Length and Sepal Length
+
+  •	a high positive correlation between Petal Width and Sepal Length
 
 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%209%20-%20Sample%20Scatterplot%20Petal%20Width%20vs%20Petal%20Length%20by%20Species%20-%20Without%20%20Regression%20Lines.png?raw=true)
