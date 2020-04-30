@@ -9,7 +9,7 @@ The Iris flower data set or Fisher’s Iris data was introduced by the British s
 
 *source: https://en.wikipedia.org/wiki/Iris_flower_data_set*
 
-There are 3 species of iris flower (Setosa, Virginica, Versicolour), with 50 examples of each type. The number of data points for each class is equal, thus it is a balanced dataset
+There are 3 species of iris flower (Setosa, Virginica, Versicolour), with 50 examples of each type. 
 
 *Fig 1 – 3 Species of Iris*
 
@@ -62,35 +62,44 @@ The detailed results of the initial analysis on ‘Iris Data Set’ are containe
 
 A summary of the initial analysis is detailed below:
 
-*Fig 4 - Mean, Median, Standard Deviation, Min, Max Data*
+*Table 2 - Number of Samples of each Variant*
+
+  There are 3 species of iris flower (Setosa, Virginica, Versicolour), with 50 examples of each type. The number of data points for each class is equal, thus it is a balanced dataset.
+
+*Table 3 - Number of Columns and Number of Rows*
+
+  The Iris dataset contains 150 rows and 5 columns
+
+*Table 4 - General Information about the Iris Data Set*
+
+  General information gives us mean, standard deviation, min and max information about the combined averages across the three iris species. This tells us only that iris versicolor is the closest to the average iris overall species measurement.
+
+*Table 5 - Mean, Median, Standard Deviation, Min and Max Values by Species
 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Fig%204%20Dataset%20Information%20by%20variable.PNG?raw=true)
 
-*Interpretation:*
+  *Sepal Length:*
 
-General information gives us information about the averages across the three iris species.  The mean, standard deviation, min and max is calculated by variant in 'Iris Dataset_Summary.txt file.  This tells us only that iris versicolor is the closest to the average iris overall species measurement.
+  ‘Iris_Setosa’ is the most consistent variety of Iris in terms of sepal length measurements in the sample.  The standard deviation of 0.35 is a calculation of the variation or spread of measurements recorded between the min value of 4.3 and max value of 5.8 across the sample versus the average measurement of 5.01.
 
-*Sepal Length:*
-‘Iris_Setosa’ is the most consistent variety of Iris in terms of sepal length measurements in the sample.  The standard deviation of 0.35 is a calculation of the variation or spread of measurements recorded between the min value of 4.3 and max value of 5.8 across the sample versus the average measurement of 5.01.
+  ‘Iris Virginica’ is the least consistent with a standard deviation of 0.64, mean of 6.59 and samples ranging from 4.9 to 7.9.
 
-‘Iris Virginica’ is the least consistent with a standard deviation of 0.64, mean of 6.59 and samples ranging from 4.9 to 7.9.
+  *Sepal Width:*
+  ‘Iris_Versicolor’ is the most consistent in terms of sepal width as it has the lowest standard deviation of 0.31 versus the average value of 2.77 and samples ranging from 2.0 to 3.4.
 
-*Sepal Width:*
-‘Iris_Versicolor’ is the most consistent in terms of sepal width as it has the lowest standard deviation of 0.31 versus the average value of 2.77 and samples ranging from 2.0 to 3.4.
+  ‘Iris Setosa’ is the least consistent with a standard deviation of 0.38, mean of 3.42 and samples ranging from 2.3 to 4.4.
 
-‘Iris Setosa’ is the least consistent with a standard deviation of 0.38, mean of 3.42 and samples ranging from 2.3 to 4.4.
+  *Petal Length:*
+  ‘Iris_Setosa’ is by far the most consistent in terms of petal length as it has the lowest standard deviation of 0.17 versus the average value of 1.46 and samples ranging from 1.0 to 1.9.
 
-*Petal Length:*
-‘Iris_Setosa’ is by far the most consistent in terms of petal length as it has the lowest standard deviation of 0.17 versus the average value of 1.46 and samples ranging from 1.0 to 1.9.
+  ‘Iris Virginica’ is the least consistent with a standard deviation of 0.55, mean of 5.55 and samples ranging from 4.5 to 6.9.
 
-‘Iris Virginica’ is the least consistent with a standard deviation of 0.55, mean of 5.55 and samples ranging from 4.5 to 6.9.
+  *Petal Width:*
+  ‘Iris_Setosa’ is again by far the most consistent in terms of petal width as it has the lowest standard deviation of 0.11 versus the average value of 0.24 and samples ranging from 0.1 to 0.6.
 
-*Petal Width:*
-‘Iris_Setosa’ is again by far the most consistent in terms of petal width as it has the lowest standard deviation of 0.11 versus the average value of 0.24 and samples ranging from 0.1 to 0.6.
+  ‘Iris Virginica’ is the least consistent with a standard deviation of 0.27, mean of 2.03 and samples ranging from 1.4 to 2.5.
 
-‘Iris Virginica’ is the least consistent with a standard deviation of 0.27, mean of 2.03 and samples ranging from 1.4 to 2.5.
-
-Overall, ‘Iris Setosa is the most consistent across the sample measured and Iris Virginica’ was the least consistent.
+  Overall, ‘Iris Setosa is the most consistent across the sample measured and Iris Virginica’ was the least consistent.
 
 
 
