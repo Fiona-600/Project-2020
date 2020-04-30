@@ -15,7 +15,7 @@ There are 3 species of iris flower (Setosa, Virginica, Versicolour), with 50 exa
 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Iris%20variants.png?raw=true)
 
-Repository Link: https://github.com/Fiona-600/Project-2020/blob/master/Iris%20variants.png
+*Repository Link: https://github.com/Fiona-600/Project-2020/blob/master/Iris%20variants.png*
 
 
 **Preliminary Finding & Interpretation of the Data Set**
@@ -24,7 +24,7 @@ Repository Link: https://github.com/Fiona-600/Project-2020/blob/master/Iris%20va
 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Table%201%20%20Iris%20Data%20Set%20-%20First%2010%20Results.PNG?raw=true)
 
-Repository Link: https://github.com/Fiona-600/Project-2020/blob/master/Table%201%20%20Iris%20Data%20Set%20-%20First%2010%20Results.PNG
+*Repository Link: https://github.com/Fiona-600/Project-2020/blob/master/Table%201%20%20Iris%20Data%20Set%20-%20First%2010%20Results.PNG*
 
 *Qualities and attributes of the Iris dataset*
 
@@ -48,7 +48,7 @@ The iris 'petal' and 'sepal' are indicated in fig. 2 below.
 
 ![alt text](https://raw.githubusercontent.com/Fiona-600/Project-2020/master/Iris%20petal%20and%20sepal.png?raw=true)
 
-Repository link: https://raw.githubusercontent.com/Fiona-600/Project-2020/master/Iris%20petal%20and%20sepal.png
+*Repository link: https://raw.githubusercontent.com/Fiona-600/Project-2020/master/Iris%20petal%20and%20sepal.png*
 
 *Detailed Analysis - Initial Findings*
 
