@@ -17,9 +17,9 @@ Table 1 -  First 10 Results
 
 Table 2 -  Number of Samples of each Variant
 
-iris_versicolor    50
-iris_virginica     50
 iris_setosa        50
+iris_virginica     50
+iris_versicolor    50
 Name: class, dtype: int64
 
 
@@ -43,28 +43,28 @@ max            7.90         4.40          6.90         2.50
 
 Table 5 -  Mean, Median, Standard Deviation, Min and Max Values by Species
 
-Table 5a - Sepal Length
+Sepal Length
                  mean  median   std  min  max
 class                                        
 iris_setosa      5.01     5.0  0.35  4.3  5.8
 iris_versicolor  5.94     5.9  0.52  4.9  7.0
 iris_virginica   6.59     6.5  0.64  4.9  7.9
 
-Table 5b - Sepal Width
+Sepal Width
                  mean  median   std  min  max
 class                                        
 iris_setosa      3.42     3.4  0.38  2.3  4.4
 iris_versicolor  2.77     2.8  0.31  2.0  3.4
 iris_virginica   2.97     3.0  0.32  2.2  3.8
 
-Table 5c - Petal Length
+Petal Length
                  mean  median   std  min  max
 class                                        
 iris_setosa      1.46    1.50  0.17  1.0  1.9
 iris_versicolor  4.26    4.35  0.47  3.0  5.1
 iris_virginica   5.55    5.55  0.55  4.5  6.9
 
-Table 5d - Petal Width
+Petal Width
                  mean  median   std  min  max
 class                                        
 iris_setosa      0.24     0.2  0.11  0.1  0.6
