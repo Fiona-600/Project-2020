@@ -23,7 +23,7 @@ Repository Link: https://github.com/Fiona-600/Project-2020/blob/master/Iris%20va
 *Qualities and attributes of the Iris dataset*
 
 **Table 1 - Top 10 Results**
-![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Iris%20variants.png?raw=true)
+![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Table%201%20%20Iris%20Data%20Set%20-%20Top%2010%20Results.PNG?raw=true)
 
 Repository Link: https://github.com/Fiona-600/Project-2020/blob/master/Table%201%20%20Iris%20Data%20Set%20-%20Top%2010%20Results.PNG
 
