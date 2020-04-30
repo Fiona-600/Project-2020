@@ -17,9 +17,9 @@ Table 1 -  First 10 Results
 
 Table 2 -  Number of Samples of each Variant
 
-iris_setosa        50
 iris_virginica     50
 iris_versicolor    50
+iris_setosa        50
 Name: class, dtype: int64
 
 
