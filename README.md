@@ -41,7 +41,7 @@ For each sample, four features were measured i.e.
 
 A flower is classified as either among those based on the four features given. Fisher developed a linear discriminant model to distinguish the species from each other based on the combination of these four features.
 
-The iris 'petal' and 'sepal' are indicated in figure 2 below.
+The iris 'petal' and 'sepal' are indicated in fig. 2 below.
 
 
 *Fig 2 - Iris Petals and Sepals
@@ -54,8 +54,7 @@ Repository link: https://raw.githubusercontent.com/Fiona-600/Project-2020/master
 
 The detailed results of the initial analysis on ‘Iris Data Set’ are contained in the Iris_Dataset_Summary.txt file.
 
-**Repository Link ** 
-*https://github.com/Fiona-600/Project-2020/blob/master/Iris_Dataset_Summary.txt*
+**Repository Link: https://github.com/Fiona-600/Project-2020/blob/master/Iris_Dataset_Summary.txt**
 
 
 
