@@ -170,7 +170,7 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
 
 Based the histograms below, we can conculde the following based on range spread of measurements and range of frequency of measurements: 
 
-*Sepal Length*
+**Sepal Length**
 
   Iris Setosa has the highest concentration of samples in one 'bin' and has a shorter range of measurements.  
   Iris Versiculor has a wider range of measurements but is reasonably consistent frequency across the 'bins'. 
@@ -191,7 +191,7 @@ Based the histograms below, we can conculde the following based on range spread 
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%202%20-%20Sepal%20Length%20Occurances%20in%20the%20Iris%20Data%20Set%20by%20Species.png
 
 
-*Sepal Width* 
+**Sepal Width**
 
   All three varieties have a large range of measurements and a marked concentration in one 'bin'
 
@@ -209,7 +209,7 @@ Based the histograms below, we can conculde the following based on range spread 
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%204%20-%20Sepal%20Width%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png
 
 
-*Petal Length*
+**Petal Length**
 
   Iris Setosa has the highest concentration of samples in one 'bin' and has a shorter range of measurements.  
   Iris Versiculor has a wider range of measurements and is reasonably consistent frequency across the 'bins'. 
@@ -229,7 +229,7 @@ Based the histograms below, we can conculde the following based on range spread 
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%206%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png
 
 
-*Petal Width*
+**Petal Width**
 
   Iris Setosa has the highest concentration of samples in one 'bin' and has a shorter range of measurements.  
   Iris Versiculor has a wider range of measurements and is reasonably consistent frequency across the 'bins'. 
