@@ -100,6 +100,10 @@ Appendix 7  - Single Dimensional Historgram of Iris Data Set by Petal Width
 Appendix 8  - Multi-Dimensional Historgram of Iris Data Set showing the Frequency of Petal Width by Variant
 
 SCATTERPLOTS
-Appendix 9  - Scatterplot without Regression Lines - Sample Code to compare 'Petal Width' vs 'Petal Length' by Species
-Appendix 10 - Scatterplot with Regression Lines - Sample Code to compare 'Petal Width' vs 'Petal Length' by Species - With Regression Lines
-Appendix 11 - Scatterplot Grid - Compare 'Sepal Width' vs 'Sepal Length' vs 'Petal Width' vs 'Petal Length' by Species - Without Regression Lines
+Appendix 9   - Scatterplot without Regression Lines - Compare 'Petal Width' vs 'Petal Length' by Species
+Appendix 9a  - Scatterplot without Regression Lines - Compare 'Petal Length' vs 'Sepal Length' by Species
+Appendix 9b  - Scatterplot without Regression Lines - Compare 'Petal Width' vs 'Sepal Length' by Species
+Appendix 10  - Scatterplot with Regression Lines - Compare 'Petal Width' vs 'Petal Length' by Species - With Regression Lines
+Appendix 10a - Scatterplot with Regression Lines - Compare 'Petal Length' vs 'Sepal Length' by Species - With Regression Lines
+Appendix 10b - Scatterplot with Regression Lines - Compare 'Petal Width' vs 'Sepal Length' by Species - With Regression Lines
+Appendix 11  - Scatterplot Grid - Compare 'Sepal Width' vs 'Sepal Length' vs 'Petal Width' vs 'Petal Length' by Species - Without Regression Lines

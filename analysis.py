@@ -79,9 +79,13 @@ print ("Appendix 7  - Single Dimensional Historgram of Iris Data Set by Petal Wi
 print ("Appendix 8  - Multi-Dimensional Historgram of Iris Data Set showing the Frequency of Petal Width by Variant")
 print ("")
 print ("SCATTERPLOTS")
-print ("Appendix 9  - Scatterplot without Regression Lines - Sample Code to compare 'Petal Width' vs 'Petal Length' by Species")
-print ("Appendix 10 - Scatterplot with Regression Lines - Sample Code to compare 'Petal Width' vs 'Petal Length' by Species - With Regression Lines")
-print ("Appendix 11 - Scatterplot Grid - Compare 'Sepal Width' vs 'Sepal Length' vs 'Petal Width' vs 'Petal Length' by Species - Without Regression Lines")
+print ("Appendix 9   - Scatterplot without Regression Lines - Compare 'Petal Width' vs 'Petal Length' by Species")
+print ("Appendix 9a  - Scatterplot without Regression Lines - Compare 'Petal Length' vs 'Sepal Length' by Species")
+print ("Appendix 9b  - Scatterplot without Regression Lines - Compare 'Petal Width' vs 'Sepal Length' by Species")
+print ("Appendix 10  - Scatterplot with Regression Lines - Compare 'Petal Width' vs 'Petal Length' by Species - With Regression Lines")
+print ("Appendix 10a - Scatterplot with Regression Lines - Compare 'Petal Length' vs 'Sepal Length' by Species - With Regression Lines")
+print ("Appendix 10b - Scatterplot with Regression Lines - Compare 'Petal Width' vs 'Sepal Length' by Species - With Regression Lines")
+print ("Appendix 11  - Scatterplot Grid - Compare 'Sepal Width' vs 'Sepal Length' vs 'Petal Width' vs 'Petal Length' by Species - Without Regression Lines")
 
 # HISTOGRAMS (By Feature Only)
 # Ref Source: https://stackoverflow.com/questions/55718675/make-histogram-from-csv-file-with-python
@@ -157,6 +161,20 @@ ax.set_title ("Appendix 9 - Scatterplot Petal Width vs Petal Length")
 a4_dims = (11.7, 8.27)
 fig, ax = sns.figsize = a4_dims
 plt.show()
+sns.set (style = "whitegrid", palette ='Set2')
+sns.set_style ("ticks")
+ax = sns.scatterplot (x = "petal_length", y ="sepal_length", hue = "class" , data = irisdataset)
+ax.set_title ("Appendix 9a - Scatterplot Petal Length vs Sepal Length")
+a4_dims = (11.7, 8.27)
+fig, ax = sns.figsize = a4_dims
+plt.show()
+sns.set (style = "whitegrid", palette ='Set2')
+sns.set_style ("ticks")
+ax = sns.scatterplot (x = "petal_width", y ="sepal_length", hue = "class" , data = irisdataset)
+ax.set_title ("Appendix 9b - Scatterplot Petal Width vs Sepal Length")
+a4_dims = (11.7, 8.27)
+fig, ax = sns.figsize = a4_dims
+plt.show()
 # SCATTERPLOT BY SPECIES - WITH REGRESSION LINES
 # Ref Source: https://stackoverflow.com/questions/46307941/how-can-i-add-title-on-seaborn-lmplot
 sns.set_style ("whitegrid")
@@ -166,7 +184,22 @@ ax.fig.suptitle ("Appendix 10 - Scatterplot Petal Width vs Petal Length", fontsi
 a4_dims = (11.7, 8.27)
 fig, ax = sns.figsize = a4_dims
 plt.show()
-# This code can be changed to compare other variables by replacing 'petal_width' and 'petal_length in lines 148/149 and 158/159
+sns.set_style ("whitegrid")
+sns.set_style ("ticks")
+ax = sns.lmplot (x = "petal_length" , y = "sepal_length" , palette = 'Set2', hue = "class", data = irisdataset, height = 6)
+ax.fig.suptitle ("Appendix 10a - Scatterplot Petal Length vs Sepal Length", fontsize = 12)
+a4_dims = (11.7, 8.27)
+fig, ax = sns.figsize = a4_dims
+plt.show()
+sns.set_style ("whitegrid")
+sns.set_style ("ticks")
+ax = sns.lmplot (x = "petal_width" , y = "sepal_length" , palette = 'Set2', hue = "class", data = irisdataset, height = 6)
+ax.fig.suptitle ("Appendix 10b - Scatterplot Petal Width vs Sepal Length", fontsize = 12)
+a4_dims = (11.7, 8.27)
+fig, ax = sns.figsize = a4_dims
+plt.show()
+
+# This code can be changed to compare other variables by replacing 'petal_width' and 'petal_length in lines 159/160 and 182/183
 # with alternate variables i.e sepal_length and sepal_width
 # A more efficient way to perform this comparison is to use the 'Scatterplot grid' method which compares all variables
 # in one plot (see below)
