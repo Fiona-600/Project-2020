@@ -1,6 +1,6 @@
                         IRIS DATA SET SUMMARY                         
 
-First 10 Results
+Table 1 -  First 10 Results
 
    sepal_length  sepal_width  petal_length  petal_width        class
 0           5.1          3.5           1.4          0.2  iris_setosa
@@ -15,7 +15,7 @@ First 10 Results
 9           4.9          3.1           1.5          0.1  iris_setosa
 
 
-Number of Samples of each Variant
+Table 2 -  Number of Samples of each Variant
 
 iris_versicolor    50
 iris_virginica     50
@@ -23,12 +23,12 @@ iris_setosa        50
 Name: class, dtype: int64
 
 
-Number of Columns and Number of Rows
+Table 3 -  Number of Columns and Number of Rows
 
 (150, 5)
 
 
-General Information about the Iris Data Set
+Table 4 -  General Information about the Iris Data Set
 
        sepal_length  sepal_width  petal_length  petal_width
 count        150.00       150.00        150.00       150.00
@@ -41,25 +41,38 @@ min            4.30         2.00          1.00         0.10
 max            7.90         4.40          6.90         2.50
 
 
-Average (Mean) Length/Width of Petals & Sepals by Species
+Table 5 -  Mean, Median, Standard Deviation, Min and Max Values by Species
 
-                 sepal_length  sepal_width  petal_length  petal_width
-class                                                                
-iris_setosa              5.01         3.42          1.46         0.24
-iris_versicolor          5.94         2.77          4.26         1.33
-iris_virginica           6.59         2.97          5.55         2.03
+Table 5a - Sepal Length
+                 mean  median   std  min  max
+class                                        
+iris_setosa      5.01     5.0  0.35  4.3  5.8
+iris_versicolor  5.94     5.9  0.52  4.9  7.0
+iris_virginica   6.59     6.5  0.64  4.9  7.9
+
+Table 5b - Sepal Width
+                 mean  median   std  min  max
+class                                        
+iris_setosa      3.42     3.4  0.38  2.3  4.4
+iris_versicolor  2.77     2.8  0.31  2.0  3.4
+iris_virginica   2.97     3.0  0.32  2.2  3.8
+
+Table 5c - Petal Length
+                 mean  median   std  min  max
+class                                        
+iris_setosa      1.46    1.50  0.17  1.0  1.9
+iris_versicolor  4.26    4.35  0.47  3.0  5.1
+iris_virginica   5.55    5.55  0.55  4.5  6.9
+
+Table 5d - Petal Width
+                 mean  median   std  min  max
+class                                        
+iris_setosa      0.24     0.2  0.11  0.1  0.6
+iris_versicolor  1.33     1.3  0.20  1.0  1.8
+iris_virginica   2.03     2.0  0.27  1.4  2.5
 
 
-Standard Deviation of Length/Width of Petals & Sepals by Species
-
-                 sepal_length  sepal_width  petal_length  petal_width
-class                                                                
-iris_setosa              0.35         0.38          0.17         0.11
-iris_versicolor          0.52         0.31          0.47         0.20
-iris_virginica           0.64         0.32          0.55         0.27
-
-
-List of Columns and Their Data Type
+Table 6  - List of Columns and Their Data Type
 
 <class 'pandas.core.frame.DataFrame'>
 RangeIndex: 150 entries, 0 to 149
