@@ -68,7 +68,7 @@ A summary of the initial analysis is detailed below:
 
 *Interpretation:*
 
-General information gives us information about the averages across the three iris species.  The mean, standard deviation, min and max is down by variant in the sections below.  This tells us only that iris versicolor is the closest to the average iris overall species measurement.
+General information gives us information about the averages across the three iris species.  The mean, standard deviation, min and max is calculated by variant in 'Iris Dataset_Summary.txt file.  This tells us only that iris versicolor is the closest to the average iris overall species measurement.
 
 *Sepal Length:*
 ‘Iris_Setosa’ is the most consistent variety of Iris in terms of sepal length measurements in the sample.  The standard deviation of 0.35 is a calculation of the variation or spread of measurements recorded between the min value of 4.3 and max value of 5.8 across the sample versus the average measurement of 5.01.
