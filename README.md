@@ -322,7 +322,7 @@ Based the histograms below, we can conclude the following based on range spread 
 
 **Technology Used**
 
-*Required Programs*
+**Required Programs**
 
 	•	Anaconda Navigator 3
 	•	Visual Studio Code
@@ -332,7 +332,7 @@ Based the histograms below, we can conclude the following based on range spread 
  	•	MS Office 
 	•	Firefox Internet Explorer
 
-*Procedure for downloading required programs*
+**Procedure for downloading required programs**
 
     •	Python version 3.7.4 was downloaded via Anaconda Navigator 3 to Windows 10 OS (https://www.anaconda.com/).
     •	Microsoft Visual Studio Code was downloaded (https://code.visualstudio.com/).
@@ -340,29 +340,32 @@ Based the histograms below, we can conclude the following based on range spread 
     •	The Iris dataset was imported to Python as a CSV file 
 
 
-*Libraries and Modules*
+**Libraries and Modules**
 
-•	NumPy - ‘import numpy as np’
+    •	NumPy - ‘import numpy as np’
 
-•	Pandas – ‘import pandas as pd’
-    
-•	Matplotlib - ‘import matplotlib.pyplot as plt’
+    •	Pandas – ‘import pandas as pd’
+        
+    •	Matplotlib - ‘import matplotlib.pyplot as plt’
 
-•	Seaborn - ‘import seaborn as sns’, 'sms.set'
+    •	Seaborn - ‘import seaborn as sns’, 'sms.set'
 
 
 
 **Author & Contributors**
+
 Fiona Lee
 
 
 
 **License**
+
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 
 
 **Acknowledgments**
+
 Andrew Beatty and Ian McLoughlin for all the helpful tips in completing these assignments
 
 
