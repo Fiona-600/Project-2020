@@ -74,7 +74,7 @@ A summary of the initial analysis is detailed below:
 
   General information gives us mean, standard deviation, min and max information about the combined averages across the three iris species. This tells us only that iris versicolor is the closest to the average iris overall species measurement.
 
-*Table 5 - Mean, Median, Standard Deviation, Min and Max Values by Species
+*Table 5 - Mean, Median, Standard Deviation, Min and Max Values by Species*
 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Fig%204%20Dataset%20Information%20by%20variable.PNG?raw=true)
 
