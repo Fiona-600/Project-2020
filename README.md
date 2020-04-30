@@ -166,6 +166,7 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
 
 
 
+
 **Findings and Conclusions**
 
 Based the histograms below, we can conculde the following based on range spread of measurements and range of frequency of measurements: 
@@ -251,6 +252,12 @@ Based the histograms below, we can conculde the following based on range spread 
 
 **Fig 13. Scatter Plot - Petal Width vs Petal Length by Species**
 
+**Conclusions**
+  •	a high positive correlation between PetalWidth and PetalLength
+  •	a high positive correlation between PetalLength and SepalLength
+  •	a high positive correlation between PetalWidth and SepalLength
+
+
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%209%20-%20Sample%20Scatterplot%20Petal%20Width%20vs%20Petal%20Length%20by%20Species%20-%20Without%20%20Regression%20Lines.png?raw=true)
 
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%209%20-%20Sample%20Scatterplot%20Petal%20Width%20vs%20Petal%20Length%20by%20Species%20-%20Without%20%20Regression%20Lines.png
@@ -284,25 +291,25 @@ Based the histograms below, we can conculde the following based on range spread 
  	•	MS Office 
 	•	Firefox Internet Explorer
 
-  *Procedure for downloading required programs
-  
+*Procedure for downloading required programs
+
+  •	Python version 3.7.4 was downloaded via Anaconda Navigator 3 to Windows 10 OS (https://www.anaconda.com/).
+  •	Microsoft Visual Studio Code was downloaded (https://code.visualstudio.com/).
+  •	Microsoft Visual Studio Code was configurated with GitHub (https://github.com/).
+  •	The Iris dataset was imported to Python as a CSV file 
+
+
 *Libraries and Modules*
 
-•	NumPy - The fundamental package for scientific computing with Python
+•	NumPy - ‘import numpy as np’
 
-    ‘import numpy as np’
-
-•	Pandas – An open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools
-
-    ‘import pandas as pd’
+•	Pandas – ‘import pandas as pd’
     
-•	Matplotlib
+•	Matplotlib - ‘import matplotlib.pyplot as plt’
 
-    ‘import matplotlib.pyplot as plt’
+•	Seaborn - ‘import seaborn as sns’, 'sms.set'
 
-•	Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
 
-    ‘import seaborn as sns’
 
 Iris Data Set
 
