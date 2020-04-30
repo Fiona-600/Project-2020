@@ -124,30 +124,30 @@ The project will be stored in a GITHUB Repository at url: https://github.com/Fio
 
 1.	The GITHUB repository will contain:
 
-        •	Png files called ‘Fig 1 iris variants.png’ and ‘fig 3 iris petals and sepals.png’ which contains images of the variants of iris identified in the study i.e. Iris setosa, Iris    virginica and Iris versicolor and an indication of the location of the flower's petals and sepals.
+    •	Png files called ‘Fig 1 iris variants.png’ and ‘fig 3 iris petals and sepals.png’ which contains images of the variants of iris identified in the study i.e. Iris setosa, Iris    virginica and Iris versicolor and an indication of the location of the flower's petals and sepals.
 
-        •	Png files called Fig 2 Iris Data Set - First 10 Results.PNG and Fig 4 Dataset Information by variable.png which are samples from the Iris_Dataset_Summary.txt file       
+    •	Png files called Fig 2 Iris Data Set - First 10 Results.PNG and Fig 4 Dataset Information by variable.png which are samples from the Iris_Dataset_Summary.txt file       
 
-        •	A text file called ‘irisdataset.txt’ containing a download the data set
+    •	A text file called ‘irisdataset.txt’ containing a download the data set
      
-        •	A text file called ‘irisdataset.csv’ containing a download the data set
+    •	A text file called ‘irisdataset.csv’ containing a download the data set
 
-        •	A ‘LICENSE’ file containing a copy of the MIT Licence
+    •	A ‘LICENSE’ file containing a copy of the MIT Licence
 
-        •	A ‘README.md’ file which contains:
+    •	A ‘README.md’ file which contains:
 
-                •	The data set itself
-                •	Online and other research into the data set
-                •	Investigations into the data set
-                •	How to run the python code
-                •	What that code does.
-                •	All references used in completing the project
+          •	The data set itself
+          •	Online and other research into the data set
+          •	Investigations into the data set
+          •	How to run the python code
+          •	What that code does.
+          •	All references used in completing the project
 
-        •	A python program file called ‘analysis.py’ which will:
+    •	A python program file called ‘analysis.py’ which will:
 
-                  1.  Output a summary of each variable to 'Iris_Dataset_Summary.txt
-                  2.  Save a histogram of each variable to png. ﬁles (Appendices 1-8)
-                  3.  Output a scatter plot of each pair of variables (Appendices 9-11)
+          1.  Output a summary of each variable to 'Iris_Dataset_Summary.txt
+          2.  Save a histogram of each variable to png. ﬁles (Appendices 1-8)
+          3.  Output a scatter plot of each pair of variables (Appendices 9-11)
 
 
 **Investigation Approach using Python**
