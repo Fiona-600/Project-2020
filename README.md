@@ -223,6 +223,7 @@ Based the histograms below, we can conculde the following based on range spread 
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%205%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set.png
 
 
+
 **Fig 10. Histogram - Petal Length by Species**
 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%206%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png?raw=true)
@@ -237,10 +238,12 @@ Based the histograms below, we can conculde the following based on range spread 
   Iris Virginica has the widest range spread and is reasonably consistent frequency across the 'bins'.
 
 
+
 **Fig 11. Histogram - Petal Width**
 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%207%20-%20Petal%20Width%20Occurences%20in%20the%20Iris%20Data%20Set.png?raw=true)
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%207%20-%20Petal%20Width%20Occurences%20in%20the%20Iris%20Data%20Set.png
+
 
 
 **Fig 12. Histogram - Petal Width by Species**
@@ -248,6 +251,7 @@ Based the histograms below, we can conculde the following based on range spread 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%208%20-%20Petal%20Width%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png?raw=true)
 
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%207%20-%20Petal%20Length%20Occurences%20in%20the%20Iris%20Data%20Set%20by%20Species.png
+
 
 
 **Fig 13. Scatter Plot - Petal Width vs Petal Length by Species**
@@ -263,11 +267,13 @@ Based the histograms below, we can conculde the following based on range spread 
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%209%20-%20Sample%20Scatterplot%20Petal%20Width%20vs%20Petal%20Length%20by%20Species%20-%20Without%20%20Regression%20Lines.png
 
 
+
 **Fig 14. Sample Scatter Plot with Regression Lines- Petal Width vs Petal Length by Species**
 
 ![alt text](https://github.com/Fiona-600/Project-2020/blob/master/Appendix%2010%20-%20Sample%20Scatterplot%20Petal%20Width%20vs%20Petal%20Length%20by%20Speciesv-%20with%20Regression%20Lines.png?raw=true)
 
 **Repository Link**: https://github.com/Fiona-600/Project-2020/blob/master/Appendix%2010%20-%20Sample%20Scatterplot%20Petal%20Width%20vs%20Petal%20Length%20by%20Speciesv-%20with%20Regression%20Lines.png
+
 
 
 **Fig 15. Scatter Plot Grid - Comparison of All Variables by Species**
