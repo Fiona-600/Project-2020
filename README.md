@@ -41,6 +41,8 @@ For each sample, four features were measured i.e.
 
 A flower is classified as either among those based on the four features given. Fisher developed a linear discriminant model to distinguish the species from each other based on the combination of these four features.
 
+The iris 'petal' and 'sepal' are indicated in figure 2 below.
+
 
 *Fig 2 - Iris Petals and Sepals
 
