@@ -1,4 +1,7 @@
-#Import Modules
+# Fiona Lee
+# Programming & Scripting Final Assigment - Iris Data Set
+
+# Import Modules
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
